@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T17:56:41.649Z",
+  "publishedAt": "2026-11-21T17:58:17.128Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1655,10 +1655,16 @@
   ],
   "notifications": [
     {
-      "id": "notif_mwqpmdo2_u59xm",
-      "title": "Checking bhai",
-      "body": "Dekhiyo",
-      "createdAt": "11/21/2026, 11:26:39 PM"
+      "id": "notif_mwqpoalp_s36d3",
+      "title": "Hi dd",
+      "body": "Dr if",
+      "createdAt": "11/21/2026, 11:28:09 PM"
+    },
+    {
+      "id": "notif_mwqpo0gm_96x2v",
+      "title": "Hi",
+      "body": "Hi hi",
+      "createdAt": "11/21/2026, 11:27:56 PM"
     }
   ]
 }
