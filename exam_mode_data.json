@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:03:45.450Z",
+  "publishedAt": "2026-11-21T18:05:18.454Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1655,10 +1655,10 @@
   ],
   "notifications": [
     {
-      "id": "notif_mwqpvgug_3wxbh",
-      "title": "Hello",
-      "body": "Bhai",
-      "createdAt": "11/21/2026, 11:33:44 PM"
+      "id": "notif_mwqpxgxc_mhfds",
+      "title": "Hello rij",
+      "body": "Eiri",
+      "createdAt": "11/21/2026, 11:35:17 PM"
     },
     {
       "id": "notif_mwqpoalp_s36d3",
