@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T20:01:23.217Z",
+  "publishedAt": "2026-11-21T20:04:25.392Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -12,90 +12,6 @@
     }
   ],
   "questions": [
-    {
-      "id": "q_mwqolnqf_09tqt",
-      "subject": "Chem",
-      "categoryId": "cat_mwqc7wgm_h2256",
-      "type": "single",
-      "text": "Test test",
-      "hasImage": false,
-      "questionImage": "",
-      "optionsHaveImages": false,
-      "options": [
-        {
-          "id": "A",
-          "text": "Working ",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "B",
-          "text": "Not working ",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "C",
-          "text": "Yes working",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "D",
-          "text": "Nahi nahi",
-          "hasImage": false,
-          "image": ""
-        }
-      ],
-      "correctAnswer": "C",
-      "marks": 4,
-      "negativeMarks": 1,
-      "solution": "",
-      "saved": false,
-      "done": false
-    },
-    {
-      "id": "q_mwqpz1ln_92030",
-      "subject": "Physics",
-      "categoryId": "cat_mwqc7wgm_h2256",
-      "type": "single",
-      "text": "Bhs",
-      "hasImage": false,
-      "questionImage": "",
-      "optionsHaveImages": false,
-      "options": [
-        {
-          "id": "A",
-          "text": "Sh",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "B",
-          "text": "Sb",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "C",
-          "text": "So",
-          "hasImage": false,
-          "image": ""
-        },
-        {
-          "id": "D",
-          "text": "Sy",
-          "hasImage": false,
-          "image": ""
-        }
-      ],
-      "correctAnswer": "A",
-      "marks": 4,
-      "negativeMarks": 1,
-      "solution": "",
-      "saved": false,
-      "done": false
-    },
     {
       "id": "q_mwqrekei_vcd8u",
       "subject": "Physics",
