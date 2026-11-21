@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:46:44.665Z",
+  "publishedAt": "2026-11-21T19:12:06.359Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1737,5 +1737,12 @@
       "starred": false
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "notif_mwqsbd50_hkkko",
+      "title": "Hi",
+      "body": "Suno na",
+      "createdAt": "11/22/2026, 12:42:04 AM"
+    }
+  ]
 }
