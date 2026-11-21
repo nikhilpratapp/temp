@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:05:18.454Z",
+  "publishedAt": "2026-11-21T18:06:45.886Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -48,6 +48,48 @@
         }
       ],
       "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwqpz1ln_92030",
+      "subject": "Physics",
+      "categoryId": "cat_mwqc7wgm_h2256",
+      "type": "single",
+      "text": "Bhs",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Sh",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Sb",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "So",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Sy",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
       "marks": 4,
       "negativeMarks": 1,
       "solution": "",
@@ -1654,12 +1696,6 @@
     }
   ],
   "notifications": [
-    {
-      "id": "notif_mwqpxgxc_mhfds",
-      "title": "Hello rij",
-      "body": "Eiri",
-      "createdAt": "11/21/2026, 11:35:17 PM"
-    },
     {
       "id": "notif_mwqpoalp_s36d3",
       "title": "Hi dd",
