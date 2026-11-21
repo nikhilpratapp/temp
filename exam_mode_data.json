@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:26:13.653Z",
+  "publishedAt": "2026-11-21T18:27:20.459Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1696,6 +1696,12 @@
     }
   ],
   "notifications": [
+    {
+      "id": "notif_mwqqpt1p_sqla3",
+      "title": "Ye wala bi jara",
+      "body": "Han",
+      "createdAt": "11/21/2026, 11:57:19 PM"
+    },
     {
       "id": "notif_mwqqod3b_etacl",
       "title": "Hi hello jabai",
