@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:14:34.217Z",
+  "publishedAt": "2026-11-21T18:26:13.653Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1696,6 +1696,12 @@
     }
   ],
   "notifications": [
+    {
+      "id": "notif_mwqqod3b_etacl",
+      "title": "Hi hello jabai",
+      "body": "Bhai",
+      "createdAt": "11/21/2026, 11:56:12 PM"
+    },
     {
       "id": "notif_mwqq9dj5_wgfin",
       "title": "Bhi",
