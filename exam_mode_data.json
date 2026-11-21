@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T17:55:17.826Z",
+  "publishedAt": "2026-11-21T17:56:41.649Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1653,5 +1653,12 @@
       "starred": false
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "notif_mwqpmdo2_u59xm",
+      "title": "Checking bhai",
+      "body": "Dekhiyo",
+      "createdAt": "11/21/2026, 11:26:39 PM"
+    }
+  ]
 }
