@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:36:39.344Z",
+  "publishedAt": "2026-11-21T19:38:30.443Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -169,6 +169,48 @@
         {
           "id": "D",
           "text": "Yes bro",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwqt98fs_gs5f3",
+      "subject": "Physics",
+      "categoryId": "cat_mwqc7wgm_h2256",
+      "type": "single",
+      "text": "Taplu bhai",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Hanni",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Bbshs",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Hsjsj",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Osjs",
           "hasImage": false,
           "image": ""
         }
