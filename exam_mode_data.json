@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:20:52.041Z",
+  "publishedAt": "2026-11-21T19:24:22.710Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1779,5 +1779,12 @@
       "starred": false
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "notif_mwqsr5oj_25so9",
+      "title": "Hello bhaiyo",
+      "body": "",
+      "createdAt": "11/22/2026, 12:54:21 AM"
+    }
+  ]
 }
