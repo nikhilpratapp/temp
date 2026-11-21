@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:19:06.631Z",
+  "publishedAt": "2026-11-21T19:20:52.041Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1779,18 +1779,5 @@
       "starred": false
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_mwqsc30b_x9fof",
-      "title": "Working",
-      "body": "Ba",
-      "createdAt": "11/22/2026, 12:42:38 AM"
-    },
-    {
-      "id": "notif_mwqsbd50_hkkko",
-      "title": "Hi",
-      "body": "Suno na",
-      "createdAt": "11/22/2026, 12:42:04 AM"
-    }
-  ]
+  "notifications": []
 }
