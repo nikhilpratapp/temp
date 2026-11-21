@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:38:51.012Z",
+  "publishedAt": "2026-11-21T19:43:57.162Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -181,36 +181,36 @@
       "done": false
     },
     {
-      "id": "q_mwqt98fs_gs5f3",
+      "id": "q_mwqtg9b7_jw4sv",
       "subject": "Physics",
       "categoryId": "cat_mwqc7wgm_h2256",
       "type": "single",
-      "text": "Taplu bhai",
+      "text": "Two ideal electric dipoles A and B, having their dipole moment p1 and p2 respectively are placed on a plane with their centres at O as shown in the figure. At point C on the axis of dipole A, the resultant electric field is making an angle of 37° with the axis.The ratio of the dipole moment of A and B, P1/P2 is:\n(take sin 37 = 3/5)",
       "hasImage": false,
       "questionImage": "",
       "optionsHaveImages": false,
       "options": [
         {
           "id": "A",
-          "text": "Hanni",
+          "text": "Jj",
           "hasImage": false,
           "image": ""
         },
         {
           "id": "B",
-          "text": "Bbshs",
+          "text": "Shhs",
           "hasImage": false,
           "image": ""
         },
         {
           "id": "C",
-          "text": "Hsjsj",
+          "text": "Pn",
           "hasImage": false,
           "image": ""
         },
         {
           "id": "D",
-          "text": "Osjs",
+          "text": "Qisb",
           "hasImage": false,
           "image": ""
         }
@@ -1821,5 +1821,12 @@
       "starred": false
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "notif_mwqsr5oj_25so9",
+      "title": "Hello bhaiyo",
+      "body": "",
+      "createdAt": "11/22/2026, 12:54:21 AM"
+    }
+  ]
 }
