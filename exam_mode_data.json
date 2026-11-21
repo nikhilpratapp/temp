@@ -1,8 +1,8 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T20:07:11.100Z",
-  "adminAuthHash": "e466e09c632840640925fdf6af94886deec0b26ca948dd5dcd03c447856d5fd2",
+  "publishedAt": "2026-11-21T20:07:40.166Z",
+  "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
       "id": "cat_mwqc7wgm_h2256",
@@ -1779,27 +1779,5 @@
       "starred": false
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_mwqu2qt7_kw4bo",
-      "title": "Hihi hu",
-      "body": "",
-      "views": 1,
-      "createdAt": "11/22/2026, 1:31:21 AM"
-    },
-    {
-      "id": "notif_mwqtmc43_4c56x",
-      "title": "Hello kala",
-      "body": "",
-      "views": 1,
-      "createdAt": "11/22/2026, 1:18:36 AM"
-    },
-    {
-      "id": "notif_mwqsr5oj_25so9",
-      "title": "Hello bhaiyo",
-      "body": "",
-      "createdAt": "11/22/2026, 12:54:21 AM",
-      "views": 1
-    }
-  ]
+  "notifications": []
 }
