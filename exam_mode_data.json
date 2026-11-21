@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:38:30.443Z",
+  "publishedAt": "2026-11-21T19:38:51.012Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1821,20 +1821,5 @@
       "starred": false
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_mwqt6xgk_1p7ez",
-      "title": "Hello check",
-      "body": "",
-      "views": 0,
-      "createdAt": "11/22/2026, 1:06:37 AM"
-    },
-    {
-      "id": "notif_mwqsr5oj_25so9",
-      "title": "Hello bhaiyo",
-      "body": "",
-      "createdAt": "11/22/2026, 12:54:21 AM",
-      "views": 0
-    }
-  ]
+  "notifications": []
 }
