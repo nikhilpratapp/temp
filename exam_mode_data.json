@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:35:26.788Z",
+  "publishedAt": "2026-11-21T18:37:42.901Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1695,54 +1695,5 @@
       "starred": false
     }
   ],
-  "notifications": [
-    {
-      "id": "notif_mwqr07wq_3nia7",
-      "title": "Hi",
-      "body": "Lala",
-      "createdAt": "11/22/2026, 12:05:25 AM"
-    },
-    {
-      "id": "notif_mwqqzlkc_vkvse",
-      "title": "Hi",
-      "body": "",
-      "createdAt": "11/22/2026, 12:04:56 AM"
-    },
-    {
-      "id": "notif_mwqqww81_7gbg8",
-      "title": "Janu",
-      "body": "",
-      "createdAt": "11/22/2026, 12:02:50 AM"
-    },
-    {
-      "id": "notif_mwqqpt1p_sqla3",
-      "title": "Ye wala bi jara",
-      "body": "Han",
-      "createdAt": "11/21/2026, 11:57:19 PM"
-    },
-    {
-      "id": "notif_mwqqod3b_etacl",
-      "title": "Hi hello jabai",
-      "body": "Bhai",
-      "createdAt": "11/21/2026, 11:56:12 PM"
-    },
-    {
-      "id": "notif_mwqq9dj5_wgfin",
-      "title": "Bhi",
-      "body": "Duf",
-      "createdAt": "11/21/2026, 11:44:32 PM"
-    },
-    {
-      "id": "notif_mwqpoalp_s36d3",
-      "title": "Hi dd",
-      "body": "Dr if",
-      "createdAt": "11/21/2026, 11:28:09 PM"
-    },
-    {
-      "id": "notif_mwqpo0gm_96x2v",
-      "title": "Hi",
-      "body": "Hi hi",
-      "createdAt": "11/21/2026, 11:27:56 PM"
-    }
-  ]
+  "notifications": []
 }
