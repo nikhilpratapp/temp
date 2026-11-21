@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T19:48:37.528Z",
+  "publishedAt": "2026-11-21T20:01:23.217Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1822,6 +1822,13 @@
     }
   ],
   "notifications": [
+    {
+      "id": "notif_mwqu2qt7_kw4bo",
+      "title": "Hihi hu",
+      "body": "",
+      "views": 0,
+      "createdAt": "11/22/2026, 1:31:21 AM"
+    },
     {
       "id": "notif_mwqtmc43_4c56x",
       "title": "Hello kala",
