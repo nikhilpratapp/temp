@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T18:34:05.634Z",
+  "publishedAt": "2026-11-21T18:35:26.788Z",
   "adminAuthHash": "8501a2aaa8b12bb2ff751d74120f36203d6bd1e92a2f468835a6e01d44f37c21",
   "categories": [
     {
@@ -1696,6 +1696,18 @@
     }
   ],
   "notifications": [
+    {
+      "id": "notif_mwqr07wq_3nia7",
+      "title": "Hi",
+      "body": "Lala",
+      "createdAt": "11/22/2026, 12:05:25 AM"
+    },
+    {
+      "id": "notif_mwqqzlkc_vkvse",
+      "title": "Hi",
+      "body": "",
+      "createdAt": "11/22/2026, 12:04:56 AM"
+    },
     {
       "id": "notif_mwqqww81_7gbg8",
       "title": "Janu",
