@@ -1,31 +1,19 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-21T20:41:19.682Z",
+  "publishedAt": "2026-11-25T10:29:21.876Z",
   "adminAuthHash": "1188e509c1f772888ca43df931791aac7b6da4819b2549d6e239bf646773425c",
   "categories": [
     {
       "id": "cat_phy_elec",
-      "name": "Physics — Electrostatics & Circuits",
+      "name": "Challenge 7",
       "subject": "Physics",
       "description": "Gauss law, electric fields, capacitors, and Wheatstone networks"
     },
     {
-      "id": "cat_chem_org",
-      "name": "Chemistry — Organic & Physical",
-      "subject": "Chemistry",
-      "description": "JEE Main reagents, kinetics, and equilibrium problems"
-    },
-    {
-      "id": "cat_math_calc",
-      "name": "Mathematics — Calculus & Vectors",
-      "subject": "Mathematics",
-      "description": "Definite integrals, differential equations, and 3D vectors"
-    },
-    {
       "id": "cat_mwqc7wgm_h2256",
-      "name": "Theoretical chem",
-      "subject": "CHem test",
+      "name": "Chem theoretical questions",
+      "subject": "Chemistry",
       "description": ""
     }
   ],
@@ -15356,6 +15344,3756 @@
       "correctAnswer": "A",
       "marks": 4,
       "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_25qi5",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The quantities $x = \\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}$, $y = \\frac{E}{B}$ and $z = \\frac{l}{CR}$ are defined where $C$-capacitance, $R$-resistance, $l$-length, $E$-Electric field, $B$-magnetic field and $\\varepsilon_0, \\mu_0$ free space permittivity and permeability respectively. Then",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Only $x$ and $y$ have the same dimension",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$x, y$ and $z$ have the same dimension",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Only $x$ and $z$ have the same dimension",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Only $y$ and $z$ have the same dimension",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_cb8xl",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A student measuring the diameter of a pencil of circular cross-section with the help of a vernier scale records the following four readings $5.50\\text{ mm}, 5.55\\text{ mm}, 5.45\\text{ mm}, 5.65\\text{ mm}$. The average of these four readings is $5.5375\\text{ mm}$ and the standard deviation of the data is $0.07395\\text{ mm}$. The average diameter of the pencil should therefore be recorded as",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$(5.5375 \\pm 0.0739)\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$(5.538 \\pm 0.074)\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$(5.54 \\pm 0.07)\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$(5.5375 \\pm 0.0740)\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_duss0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The least count of the main scale of a vernier callipers is $1\\text{ mm}$. Its vernier scale is divided into 10 divisions and coincide with 9 divisions of the main scale. When jaws are touching each other, the 7th division of vernier scale coincides with a division of main scale and the zero of vernier scale is lying right side of the zero of main scale. When this vernier is used to measure length of a cylinder the zero of the vernier scale lies between $3.1\\text{ cm}$ and $3.2\\text{ cm}$ and 4th VSD coincides with a main scale division. The length of the cylinder is (VSD is vernier scale division)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$3.21\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2.99\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3.07\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$3.2\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_i2y0s",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A helicopter rises from rest on the ground vertically upwards with a constant acceleration $g$. A food packet is dropped from the helicopter when it is at a height $h$. The time taken by the packet to reach the ground is close to [$g$ is the acceleration due to gravity]",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$t = \\sqrt{\\frac{2h}{3g}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$t = 1.8\\sqrt{\\frac{h}{g}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$t = 3.4\\sqrt{\\frac{h}{g}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$t = \\frac{2}{3}\\sqrt{\\frac{h}{g}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_mn728",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A ball is dropped from the top of a $100\\text{ m}$ high tower on a planet. In the last $(1/2)\\text{ s}$ before hitting the ground, it covers a distance of $19\\text{ m}$. Acceleration due to gravity (in $\\text{m s}^{-2}$) near the surface on that planet is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "8",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_iu0lw",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "When a car is at rest, its driver sees rain drops falling on it vertically. When driving the car with speed $v$, he sees that rain drops are coming at an angle $60^\\circ$ from the horizontal. On further increasing the speed of the car to $(1 + \\beta)v$, this angle changes to $45^\\circ$. The value of $\\beta$ is close to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.41$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.50$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.37$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.73$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgku_l9omm",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A small ball of mass $m$ is thrown upward with velocity $u$ from the ground. The ball experiences a resistive force $mkv^2$ where $v$ is its speed. The maximum height attained by the ball is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{2k}\\tan^{-1}\\frac{ku^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{2k}\\ln\\left(1 + \\frac{ku^2}{g}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{k}\\tan^{-1}\\frac{ku^2}{2g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{k}\\ln\\left(1 + \\frac{ku^2}{2g}\\right)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_4ryg2",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "An insect is at the bottom of a hemispherical ditch of radius $1\\text{ m}$. It crawls up the ditch but starts slipping after it is at height $h$ from the bottom. If the coefficient of friction between the ground and the insect is $0.75$, then $h$ is ($g = 10\\text{ m s}^{-2}$)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.80\\text{ m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.60\\text{ m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.45\\text{ m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.20\\text{ m}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_jut4i",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A bead of mass $m$ stays at point $P(a, b)$ on a wire bent in the shape of a parabola $y = 4Cx^2$ and rotating with angular speed $\\omega$ (see figure). The value of $\\omega$ is (neglect friction)",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$2\\sqrt{2gC}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2\\sqrt{gC}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\sqrt{\\frac{2g}{C}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{\\frac{2gC}{ab}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_qqeub",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A Tennis ball is released from a height $h$ and after freely falling on a wooden floor it rebounds and reaches height $h/2$. The velocity versus height of the ball during its motion may be represented graphically by (graphs are drawn schematically and not to scale)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_enhl5",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A person pushes a box on a rough horizontal platform surface. He applies a force of $200\\text{ N}$ over a distance of $15\\text{ m}$. Thereafter, he gets progressively tired and his applied force reduces linearly with distance to $100\\text{ N}$. The total distance through which the box has been moved is $30\\text{ m}$. What is the work done by the person during the total movement of the box?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$5690\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$5250\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3280\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2780\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_a8e5a",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A block starts moving up an inclined plane of inclination $30^\\circ$ with an initial velocity of $v_0$. It comes back to its initial position with velocity $v_0/2$. The value of the coefficient of kinetic friction between the block and the inclined plane is close to $I/1000$. The nearest integer to $I$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "346",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_yay7u",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A particle of mass $m$ is projected with a speed $u$ from the ground at an angle $\\theta = \\pi/3$ w.r.t. horizontal ($x$-axis). When it has reached its maximum height, it collides completely inelastically with another particle of the same mass and velocity $u\\hat{i}$. The horizontal distance covered by the combined mass before reaching the ground is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{3\\sqrt{3}}{8}\\frac{u^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2\\sqrt{2}\\frac{u^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{3\\sqrt{2}}{4}\\frac{u^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{5}{8}\\frac{u^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_pbirt",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A block of mass $1.9\\text{ kg}$ is at rest at the edge of a table, of height $1\\text{ m}$. A bullet of mass $0.1\\text{ kg}$ collides with the block and sticks to it. If the velocity of the bullet is $20\\text{ m/s}$ in the horizontal direction just before the collision then the kinetic energy just before the combined system strikes the floor, is [Take $g = 10\\text{ m/s}^2$. Assume there is no rotational motion and loss of energy after the collision is negligible.]",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$21\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$23\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$19\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$20\\text{ J}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_8k1lc",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Blocks of masses $m, 2m, 4m$ and $8m$ are arranged in a line on a frictionless floor. Another block of mass $m$, moving with speed $v$ along the same line (see figure) collides with mass $m$ in perfectly inelastic manner. All the subsequent collisions are also perfectly inelastic. By the time the last block of mass $8m$ starts moving the total energy loss is $p\\%$ of the original energy. Value of '$p$' is close to",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$77$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$37$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$87$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$94$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_cy89w",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A square shaped hole of side $l = a/2$ is carved out at a distance $d = a/2$ from the centre 'O' of a uniform circular disk of radius $a$. If the distance of the centre of mass of the remaining portion from O is $-a/X$, value of $X$ (to the nearest integer) is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "23",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_t368a",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A body A, of mass $m = 0.1\\text{ kg}$ has an initial velocity of $3\\hat{i}\\text{ m s}^{-1}$. It collides elastically with another body, B of the same mass which has an initial velocity of $5\\hat{j}\\text{ m s}^{-1}$. After collision, A moves with a velocity $\\vec{v} = 4(\\hat{i} + \\hat{j})$. The energy of B after collision is written as $(x/10)\\text{ J}$. The value of $x$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "1",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_fyj2n",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Three solid spheres each of mass $m$ and diameter $d$ are stuck together such that the lines connecting the centres form an equilateral triangle of side of length $d$. The ratio $I_0/I_A$ of moment of inertia $I_0$ of the system about an axis passing the centroid and $I_A$ about centre of any of the spheres and perpendicular to the plane of the triangle is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{15}{13}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{13}{15}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{13}{23}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{23}{13}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_mfay9",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The linear mass density of a thin rod AB of length $L$ varies from A to B as $\\lambda(x) = \\lambda_0\\left(1 + \\frac{x}{L}\\right)$, where $x$ is the distance from A. If $M$ is the mass of the rod then its moment of inertia about an axis passing through A and perpendicular to the rod is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{5}{12}ML^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{3}{7}ML^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2}{5}ML^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{7}{18}ML^2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_x5vg0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Moment of inertia of a cylinder of mass $M$, length $L$ and radius $R$ about an axis passing through its centre and perpendicular to the axis of the cylinder is $I = M\\left(\\frac{R^2}{4} + \\frac{L^2}{12}\\right)$. If such a cylinder is to be made for a given mass of material, the ratio $L/R$ for it to have minimum possible $I$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\sqrt{\\frac{2}{3}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{2}{3}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\sqrt{\\frac{3}{2}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{3}{2}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_dr147",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Consider a uniform rod of mass $M = 4m$ and length $l$ pivoted about its centre. A mass $m$ moving with velocity $v$ making angle $\\theta = \\pi/4$ to the rod's long axis collides with one end of the rod and sticks to it. The angular speed of the rod-mass system just after the collision is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{4}{7}\\frac{v}{l}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{3\\sqrt{2}}{7}\\frac{v}{l}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{3}{7\\sqrt{2}}\\frac{v}{l}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{3}{7}\\frac{v}{l}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_13lmz",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A block of mass $m = 1\\text{ kg}$ slides with velocity $v = 6\\text{ m/s}$ on a frictionless horizontal surface and collides with a uniform vertical rod and sticks to it as shown. The rod is pivoted about O and swings as a result of the collision making angle $\\theta$ before momentarily coming to rest. If the rod has mass $M = 2\\text{ kg}$, and length $l = 1\\text{ m}$, the value of $\\theta$ is approximately (Take $g = 10\\text{ m/s}^2$)",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$69^\\circ$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$63^\\circ$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$55^\\circ$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$49^\\circ$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_mj0w7",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "ABC is a plane lamina of the shape of an equilateral triangle. D, E are mid points of AB, AC and G is the centroid of the lamina. Moment of inertia of the lamina about an axis passing through G and perpendicular to the plane ABC is $I_0$. If part ADE is removed, the moment of inertia of the remaining part about the same axis is $\\frac{NI_0}{16}$ where $N$ is an integer. Value of $N$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "11",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_0t967",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A circular disc of mass $M$ and radius $R$ is rotating about its axis with angular speed $\\omega_1$. If another stationary disc having radius $R/2$ and same mass $M$ is dropped co-axially on to the rotating disc. Gradually both discs attain constant angular speed $\\omega_2$. The energy lost in the process is $p\\%$ of the initial energy. Value of $p$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "20",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_xjge0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The acceleration due to gravity on the earth's surface at poles is $g$ and angular velocity of the earth about the axis passing through the pole is $\\omega$. An object is weighed at the equator and at a height $h$ above the poles by using a spring balance. If the weights are found to be same, then $h$ is ($h \\ll R$, where $R$ is the radius of the earth)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{R^2\\omega^2}{8g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{R^2\\omega^2}{4g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{R^2\\omega^2}{g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{R^2\\omega^2}{2g}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_klsh0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A body A of mass $m$ is moving in a circular orbit of radius $R$ about a planet. Another body B of mass $m/2$ collides with A with a velocity which is half ($\\vec{v}/2$) the instantaneous velocity $\\vec{v}$ of A. The collision is completely inelastic. Then, the combined body",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Escapes from the Planet's Gravitational field",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Starts moving in an elliptical orbit around the planet",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Falls vertically downwards towards the planet",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Continues to move in a circular orbit",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_e3zz0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A satellite of mass $m$ is launched vertically upwards with an initial speed $u$ from the surface of the earth. After it reaches height $R$ ($R =$ radius of the earth), it ejects a rocket of mass $m/10$ so that subsequently the satellite moves in a circular orbit. The kinetic energy of the rocket is ($G$ is the gravitational constant; $M$ is the mass of the earth)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{3m}{8}\\left(u + \\sqrt{\\frac{5GM}{6R}}\\right)^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{m}{20}\\left(u^2 + \\frac{113}{200}\\frac{GM}{R}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$5m\\left(u^2 - \\frac{119}{200}\\frac{GM}{R}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{m}{20}\\left(u - \\sqrt{\\frac{2GM}{3R}}\\right)^2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_galy9",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A satellite is moving in a low nearly circular orbit around the earth. Its radius is roughly equal to that of the earth's radius $R_e$. By firing rockets attached to it, its speed is instantaneously increased in the direction of its motion so that it become $\\sqrt{3/2}$ times larger. Due to this the farthest distance from the centre of the earth that the satellite reaches is $R$, value of $R$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$4R_e$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$3R_e$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2R_e$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2.5R_e$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_c2972",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two planets have masses $M$ and $16M$ and their radii are $a$ and $2a$, respectively. The separation between the centres of the planets is $10a$. A body of mass $m$ is fired from the surface of the larger planet towards the smaller planet along the line joining their centres. For the body to be able to reach at the surface of smaller planet, the minimum firing speed needed is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\sqrt{\\frac{GM^2}{ma}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{3}{2}\\sqrt{\\frac{5GM}{a}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$4\\sqrt{\\frac{GM}{a}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2\\sqrt{\\frac{GM}{a}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_vdq78",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A boy's catapult is made of rubber cord which is $42\\text{ cm}$ long, with $6\\text{ mm}$ diameter of cross-section and of negligible mass. The boy keeps a stone weighing $0.02\\text{ kg}$ on it and stretches the cord by $20\\text{ cm}$ by applying a constant force. When released, the stone flies off with a velocity of $20\\text{ m s}^{-1}$. Neglect the change in the area of cross-section of the cord while stretched. The Young's modulus of rubber is closest to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$10^6\\text{ N m}^{-2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$10^4\\text{ N m}^{-2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$10^8\\text{ N m}^{-2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$10^3\\text{ N m}^{-2}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_7bm27",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A cube of metal is subjected to a hydrostatic pressure of $4\\text{ GPa}$. The percentage change in the length of the side of the cube is close to (Given bulk modulus of metal, $B = 8 \\times 10^{10}\\text{ Pa}$)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.6$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$1.67$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$20$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_jph49",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A cylindrical vessel containing a liquid is rotated about its axis so that the liquid rises at its sides as shown in the figure. The radius of vessel is $5\\text{ cm}$ and the angular speed of rotation is $\\omega\\text{ rad s}^{-1}$. The difference in the height, $h$ (in $\\text{cm}$) of liquid at the centre of vessel and at the side will be",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{2\\omega^2}{25g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{5\\omega^2}{2g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2\\omega^2}{5g}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{25\\omega^2}{2g}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_z1b9q",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A hollow spherical shell of outer radius $R$ floats just submerged under the water surface. The inner radius of the shell is $r$. If the specific gravity of the shell material is $27/8$ w.r.t. water, the value of $r$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{4}{9}R$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{8}{9}R$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{3}R$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{2}{3}R$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_h2pg2",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two liquids of densities $\\rho_1$ and $\\rho_2$ ($\\rho_2 = 2\\rho_1$) are filled up behind a square wall of side $10\\text{ m}$ as shown in figure. Each liquid has a height of $5\\text{ m}$. The ratio of the forces due to these liquids exerted on upper part MN to that at the lower part NO is (Assume that the liquids are not mixing)",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2/3$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$1/4$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1/3$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_5qw73",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Consider a solid sphere of radius $R$ and mass density $\\rho(r) = \\rho_0\\left(1 - \\frac{r^2}{R^2}\\right)$, $0 < r \\le R$. The minimum density of a liquid in which it will float is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$2\\rho_0/5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\rho_0/5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2\\rho_0/3$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\rho_0/3$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_g8plo",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two identical cylindrical vessels are kept on the ground and each contain the same liquid of density $d$. The area of the base of both vessels is $S$ but the height of liquid in one vessel is $x_1$ and in the other, $x_2$. When both cylinders are connected through a pipe of negligible volume very close to the bottom, the liquid flows from one vessel to the other until it comes to equilibrium at a new height. The change in energy of the system in the process is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$gdS(x_2 + x_1)^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$gdS(x_2^2 + x_1^2)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{4}gdS(x_2 - x_1)^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{3}{4}gdS(x_2 - x_1)^2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_0a9jg",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The displacement time graph of a particle executing S.H.M. is given in figure (sketch is schematic and not to scale). Which of the following statements is/are true for this motion? (A) The force is zero at $t = 3T/4$ (B) The acceleration is maximum at $t = T$ (C) The speed is maximum at $t = T/4$ (D) The P.E. is equal to K.E. of the oscillation at $t = T/2$",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A), (B) and (D)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(B), (C) and (D)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) and (D)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A), (B) and (C)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_len8j",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "When a particle of mass $m$ is attached to a vertical spring of spring constant $k$ and released, its motion is described by $y(t) = y_0\\sin^2\\omega t$, where '$y$' is measured from the lower end of unstretched spring. Then $\\omega$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\sqrt{\\frac{g}{y_0}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\sqrt{\\frac{g}{2y_0}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{2}\\sqrt{\\frac{g}{y_0}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{\\frac{2g}{y_0}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_asq4m",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "An object of mass $m$ is suspended at the end of a massless wire of length $L$ and area of cross-section, $A$. Young modulus of the material of the wire is $Y$. If the mass is pulled down slightly its frequency of oscillation along the vertical direction is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$f = \\frac{1}{2\\pi}\\sqrt{\\frac{YA}{mL}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$f = \\frac{1}{2\\pi}\\sqrt{\\frac{YL}{mA}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$f = \\frac{1}{2\\pi}\\sqrt{\\frac{mA}{YL}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$f = \\frac{1}{2\\pi}\\sqrt{\\frac{mL}{YA}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_20bf3",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A bullet of mass $5\\text{ g}$, travelling with a speed of $210\\text{ m/s}$, strikes a fixed wooden target. One half of its kinetic energy is converted into heat in the bullet while the other half is converted into heat in the wood. The rise of temperature of the bullet if the specific heat of its material is $0.030\\text{ cal/(g-}^\\circ\\text{C)}$ ($1\\text{ cal} = 4.2 \\times 10^7\\text{ ergs}$) is close to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$83.3^\\circ\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$87.5^\\circ\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$119.2^\\circ\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$38.4^\\circ\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_o32ty",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Three rods of identical cross-section and lengths are made of three different materials of thermal conductivity $K_1, K_2$ and $K_3$ respectively. They are joined together at their ends to make a long rod (see figure). One end of the long rod is maintained at $100^\\circ\\text{C}$ and the other at $0^\\circ\\text{C}$ (see figure). If the joints of the rod are at $70^\\circ\\text{C}$ and $20^\\circ\\text{C}$ in steady state and there is no loss of energy from the surface of the rod, the correct relationship between $K_1, K_2$ and $K_3$ is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$K_1 : K_3 = 2 : 3, K_2 : K_3 = 2 : 5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$K_1 < K_2 < K_3$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$K_1 : K_2 = 5 : 2, K_1 : K_3 = 3 : 5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$K_1 > K_2 > K_3$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_nu0kq",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "Three containers $C_1, C_2$ and $C_3$ have water at different temperatures. The table below shows the final temperature $T$ when different amounts of water (given in liters) are taken from each container and mixed (assume no loss of heat during the process): [$C_1=1\\text{ l}, C_2=2\\text{ l}, C_3=0 \\Rightarrow T=60^\\circ\\text{C}$; $C_1=0, C_2=1\\text{ l}, C_3=2\\text{ l} \\Rightarrow T=30^\\circ\\text{C}$; $C_1=2\\text{ l}, C_2=0, C_3=1\\text{ l} \\Rightarrow T=60^\\circ\\text{C}$; $C_1=1\\text{ l}, C_2=1\\text{ l}, C_3=1\\text{ l} \\Rightarrow T=\\theta$]. The value of $\\theta$ (in $^\\circ\\text{C}$ to the nearest integer) is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "50",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkv_b5m2s",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Under an adiabatic process, the volume of an ideal gas gets doubled. Consequently the mean collision time between the gas molecules changes from $\\tau_1$ to $\\tau_2$. If $C_p/C_v = \\gamma$ for this gas, then a good estimate for $\\tau_2/\\tau_1$ is given by",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\left(\\frac{1}{2}\\right)^{\\frac{\\gamma+1}{2}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2^{\\frac{\\gamma+1}{2}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_f6m5m",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A thermodynamic cycle $xyzx$ is shown on a $V$-$T$ diagram. The $P$-$V$ diagram that best describes this cycle is (Diagrams are schematic and not to scale)",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": true,
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "",
+          "hasImage": true,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_d96b1",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "Initially a gas of diatomic molecules is contained in a cylinder of volume $V_1$ at a pressure $P_1$ and temperature $250\\text{ K}$. Assuming that $25\\%$ of the molecules get dissociated causing a change in number of moles. The pressure of the resulting gas at temperature $2000\\text{ K}$, when contained in a volume $2V_1$ is given by $P_2$. The ratio $P_2/P_1$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "5",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_k4ni6",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A closed vessel contains $0.1\\text{ mole}$ of a monoatomic ideal gas at $200\\text{ K}$. If $0.05\\text{ mole}$ of the same gas at $400\\text{ K}$ is added to it, the final equilibrium temperature (in $\\text{K}$) of the gas in the vessel will be close to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "266-267",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_y4q0l",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Speed of a transverse wave on a straight wire (mass $6.0\\text{ g}$, length $60\\text{ cm}$ and area of cross-section $1.0\\text{ mm}^2$) is $90\\text{ m s}^{-1}$. If the Young's modulus of wire is $16 \\times 10^{11}\\text{ N m}^{-2}$, the extension of wire over its natural length is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.03\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.04\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.02\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.01\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_ko01c",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Three harmonic waves having equal frequency $\\nu$ and same intensity $I_0$, have phase angles $0, \\pi/4$ and $-\\pi/4$ respectively. When they are superimposed, the intensity of the resultant wave is close to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.2 I_0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$I_0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3 I_0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$5.8 I_0$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_ugduu",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two identical strings X and Z made of same material have tension $T_X$ and $T_Z$ in them. If their fundamental frequencies are $450\\text{ Hz}$ and $300\\text{ Hz}$, respectively, then the ratio $T_X/T_Z$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1.5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2.25$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.44$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1.25$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_auhcs",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In a resonance tube experiment when the tube is filled with water up to height of $17.0\\text{ cm}$ from bottom, it resonates with a given tuning fork. When the water level is raised the next resonance with the same tuning fork occurs at a height of $24.5\\text{ cm}$. If the velocity of sound in air is $330\\text{ m/s}$, the tuning fork frequency is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1100\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$3300\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2200\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$550\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_qovr8",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Consider a sphere of radius $R$ which carries a uniform charge density $\\rho$. If a sphere of radius $R/2$ is carved out of it, as shown, the ratio $|\\vec{E}_A|/|\\vec{E}_B|$ of magnitude of electric field $\\vec{E}_A$ and $\\vec{E}_B$ respectively, at points A and B due to the remaining portion is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{21}{34}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{18}{54}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{17}{54}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{18}{34}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_ugj9n",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two infinite planes each with uniform surface charge density $+\\sigma$ are kept in such a way that the angle between them is $30^\\circ$. The electric field in the region shown between them is given by",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\sigma}{\\varepsilon_0}\\left[\\left(1 + \\frac{\\sqrt{3}}{2}\\right)\\hat{y} + \\frac{\\hat{x}}{2}\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\sigma}{2\\varepsilon_0}\\left[(1 + \\sqrt{3})\\hat{y} + \\frac{\\hat{x}}{2}\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\sigma}{2\\varepsilon_0}\\left[(1 + \\sqrt{3})\\hat{y} - \\frac{\\hat{x}}{2}\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\sigma}{2\\varepsilon_0}\\left[\\left(1 - \\frac{\\sqrt{3}}{2}\\right)\\hat{y} - \\frac{\\hat{x}}{2}\\right]$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_pc4c1",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A charged particle (mass $m$ and charge $q$) moves along X-axis with velocity $V_0$. When it passes through the origin it enters a region having uniform electric field $\\vec{E} = -E\\hat{j}$ which extends upto $x = d$. Equation of path of the particle in the region $x > d$ is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$y = \\frac{qEd}{mV_0^2}(x - d)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$y = \\frac{qEd^2}{mV_0^2}x$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$y = \\frac{qEd}{mV_0^2}\\left(\\frac{d}{2} - x\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$y = \\frac{qEd}{mV_0^2}x$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_z4jqy",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two point charges $4q$ and $-q$ are fixed on the $x$-axis at $x = -d/2$ and $x = d/2$ respectively. If a third point charge '$q$' is taken from the origin to $x = d$ along the semicircle as shown in the figure, the energy of the charge will",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increase by $\\frac{2q^2}{3\\pi\\varepsilon_0 d}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "increase by $\\frac{3q^2}{4\\pi\\varepsilon_0 d}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "decrease by $\\frac{4q^2}{3\\pi\\varepsilon_0 d}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "decrease by $\\frac{q^2}{4\\pi\\varepsilon_0 d}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_67gg8",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two isolated conducting spheres $S_1$ and $S_2$ of radius $2R/3$ and $R/3$ have $12\\ \\mu\\text{C}$ and $-3\\ \\mu\\text{C}$ charges, respectively, and are at a large distance from each other. They are now connected by a conducting wire. A long time after this is done the charges on $S_1$ and $S_2$ are respectively",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$6\\ \\mu\\text{C}$ and $3\\ \\mu\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$+4.5\\ \\mu\\text{C}$ and $-4.5\\ \\mu\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3\\ \\mu\\text{C}$ and $6\\ \\mu\\text{C}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$4.5\\ \\mu\\text{C}$ on both",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_wvq0y",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A solid sphere of radius $R$ carries a charge $(Q + q)$ distributed uniformly over its volume. A very small point like piece of it of mass $m$ gets detached from the bottom of the sphere and falls down vertically under gravity. This piece carries charge $q$. If it acquires a speed $v$ when it has fallen through a vertical height $y$ (see figure), then: (assume the remaining portion to be spherical).",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$v^2 = 2y\\left[\\frac{qQ}{4\\pi\\varepsilon_0 R(R+y)m} + g\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$v^2 = y\\left[\\frac{qQ}{4\\pi\\varepsilon_0 R^2 y m} + g\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$v^2 = 2y\\left[\\frac{qQR}{4\\pi\\varepsilon_0 (R+y)^3 m} + g\\right]$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$v^2 = y\\left[\\frac{qQ}{4\\pi\\varepsilon_0 R(R+y)m} + g\\right]$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_qv6y4",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Two identical electric point dipoles have dipole moments $\\vec{p}_1 = p\\hat{i}$ and $\\vec{p}_2 = -p\\hat{i}$ and are held on the $x$-axis at distance '$a$' from each other. When released, they move along the $x$-axis with the direction of their dipole moments remaining unchanged. If the mass of each dipole is '$m$', their speed when they are infinitely far apart is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{p}{a}\\sqrt{\\frac{1}{\\pi\\varepsilon_0 ma}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{p}{a}\\sqrt{\\frac{3}{2\\pi\\varepsilon_0 ma}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{p}{a}\\sqrt{\\frac{1}{2\\pi\\varepsilon_0 ma}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{p}{a}\\sqrt{\\frac{2}{\\pi\\varepsilon_0 ma}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_flhh0",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A parallel plate capacitor has plates of area $A$ separated by distance '$d$' between them. It is filled with a dielectric which has a dielectric constant that varies as $k(x) = K(1 + \\alpha x)$ where '$x$' is the distance measured from one of the plates. If $(\\alpha d) \\ll 1$, the total capacitance of the system is best given by the expression",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{A\\varepsilon_0 K}{d}\\left(1 + \\left(\\frac{\\alpha d}{2}\\right)^2\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{AK\\varepsilon_0}{d}\\left(1 + \\frac{\\alpha d}{2}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{A\\varepsilon_0 K}{d}\\left(1 + \\frac{\\alpha^2 d^2}{2}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{AK\\varepsilon_0}{d}(1 + \\alpha d)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_x86nn",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A capacitor is made of two square plates each of side $a$ making a very small angle $\\alpha$ between them, as shown in figure. The capacitance will be close to",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\varepsilon_0 a^2}{d}\\left(1 - \\frac{\\alpha a}{4d}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\varepsilon_0 a^2}{d}\\left(1 + \\frac{\\alpha a}{d}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\varepsilon_0 a^2}{d}\\left(1 - \\frac{\\alpha a}{2d}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\varepsilon_0 a^2}{d}\\left(1 - \\frac{3\\alpha a}{2d}\\right)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_0o3w8",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A parallel plate capacitor has plate of length '$l$', width '$w$' and separation of plates is '$d$'. It is connected to a battery of emf $V$. A dielectric slab of the same thickness '$d$' and of dielectric constant $k = 4$ is being inserted between the plates of the capacitor. At what length of the slab inside plates, will the energy stored in the capacitor be two times the initial energy stored?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$l/4$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$l/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$l/3$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2l/3$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_tq7un",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A $5\\ \\mu\\text{F}$ capacitor is charged fully by a $220\\text{ V}$ supply. It is then disconnected from the supply and is connected in series to another uncharged $2.5\\ \\mu\\text{F}$ capacitor. If the energy change during the charge redistribution is $\\frac{X}{100}\\text{ J}$ then value of $X$ to the nearest integer is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "4",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_pj4lg",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A battery of $3.0\\text{ V}$ is connected to a resistor dissipating $0.5\\text{ W}$ of power. If the terminal voltage of the battery is $2.5\\text{ V}$, the power dissipated within the internal resistance is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.50\\text{ W}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.125\\text{ W}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.072\\text{ W}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.10\\text{ W}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_zlxi1",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In the given circuit diagram, a wire is joining points B and D. The current in this wire is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.4\\text{ A}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2\\text{ A}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$4\\text{ A}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_jhdxm",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Model a torch battery of length $l$ to be made up of a thin cylindrical bar of radius '$a$' and a concentric thin cylindrical shell of radius '$b$' filled in between with an electrolyte of resistivity $\\rho$ (see figure). If the battery is connected to a resistance of value $R$, the maximum Joule heating in $R$ will take place for",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$R = \\frac{2\\rho}{\\pi l}\\ln\\left(\\frac{b}{a}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$R = \\frac{\\rho}{\\pi l}\\ln\\left(\\frac{b}{a}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$R = \\frac{\\rho}{2\\pi l}\\left(\\frac{b}{a}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$R = \\frac{\\rho}{2\\pi l}\\ln\\left(\\frac{b}{a}\\right)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_jofs6",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In the figure shown, the current in the $10\\text{ V}$ battery is close to",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.36\\text{ A}$ from negative to positive terminal.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.71\\text{ A}$ from positive to negative terminal.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.21\\text{ A}$ from positive to negative terminal.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.42\\text{ A}$ from positive to negative terminal.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_0i3os",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "In a meter bridge experiment, $S$ is a standard resistance. $R$ is a resistance wire. It is found that balancing length is $l = 25\\text{ cm}$. If $R$ is replaced by a wire of half length and half diameter that of $R$ of same material, then the balancing distance $l'$ (in $\\text{cm}$) will now be",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "40",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_862zc",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A particle of mass $m$ and charge $q$ has an initial velocity $\\vec{v} = v_0\\hat{j}$. If an electric field $\\vec{E} = E_0\\hat{i}$ and magnetic field $\\vec{B} = B_0\\hat{i}$ act on the particle, its speed will double after a time",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\sqrt{3}mv_0}{qE_0}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{3mv_0}{qE_0}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\sqrt{2}mv_0}{qE_0}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{2mv_0}{qE_0}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_ogutm",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A charged particle of mass '$m$' and charge '$q$' moving under the influence of uniform electric field $E\\hat{i}$ and a uniform magnetic field $B\\hat{k}$ follows a trajectory from point P to Q as shown in figure. The velocities at P and Q are respectively, $v\\hat{i}$ and $-2v\\hat{j}$. Then which of the following statements (A, B, C, D) are correct? (Trajectory shown is schematic and not to scale)\n(A) $E = \\frac{3}{4}\\left(\\frac{mv^2}{qa}\\right)$\n(B) Rate of work done by the electric field at P is $\\frac{3}{4}\\left(\\frac{mv^3}{a}\\right)$\n(C) Rate of work done by both the fields at Q is zero\n(D) The difference between the magnitude of angular momentum of the particle at P and Q is $2mav$",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A), (C), (D)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A), (B), (C)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A), (B), (C), (D)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(B), (C), (D)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_t81w9",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A wire A, bent in the shape of an arc of a circle, carrying a current of $2\\text{ A}$ and having radius $2\\text{ cm}$ and another wire B, also bent in the shape of arc of a circle, carrying a current of $3\\text{ A}$ and having radius of $4\\text{ cm}$, are placed as shown in the figure. The ratio of the magnetic fields due to the wires A and B at the common centre O is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$4 : 6$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$6 : 4$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$6 : 5$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2 : 5$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_bdvb2",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A very long wire ABDMNDC is shown in figure carrying current $I$. AB and BC parts are straight, long and at right angle. At D, wire forms a circular turn DMND of radius $R$. AB, BC parts are tangential to circular turn at N and D. Magnetic field at the centre of circle is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\mu_0 I}{2\\pi R}\\left(\\pi + \\frac{1}{\\sqrt{2}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\mu_0 I}{2R}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\mu_0 I}{2\\pi R}(\\pi + 1)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\mu_0 I}{2\\pi R}\\left(\\pi - \\frac{1}{\\sqrt{2}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_s8a58",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A wire carrying current $I$ is bent in the shape ABCDEFA as shown, where rectangle ABCDA and ADEFA are perpendicular to each other. If the sides of the rectangles are of lengths $a$ and $b$, then the magnitude and direction of magnetic moment of the loop ABCDEFA is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\sqrt{2}abI$, along $\\left(\\frac{\\hat{j}}{\\sqrt{2}} + \\frac{\\hat{k}}{\\sqrt{2}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\sqrt{2}abI$, along $\\left(\\frac{\\hat{j}}{\\sqrt{5}} + \\frac{2\\hat{k}}{\\sqrt{5}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$abI$, along $\\left(\\frac{\\hat{j}}{\\sqrt{2}} + \\frac{\\hat{k}}{\\sqrt{2}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$abI$, along $\\left(\\frac{\\hat{j}}{\\sqrt{5}} + \\frac{2\\hat{k}}{\\sqrt{5}}\\right)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_7voks",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A square loop of side $2a$, and carrying current $I$, is kept in XZ plane with its centre at origin. A long wire carrying the same current $I$ is placed parallel to the $z$-axis and passing through the point $(0, b, 0)$, ($b \\gg a$). The magnitude of the torque on the loop about $z$-axis is given by",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{2\\mu_0 I^2 a^2}{\\pi b}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\mu_0 I^2 a^3}{2\\pi b^2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\mu_0 I^2 a^2}{2\\pi b}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{2\\mu_0 I^2 a^3}{\\pi b^2}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_z79ow",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A paramagnetic sample shows a net magnetisation of $6\\text{ A/m}$ when it is placed in an external magnetic field of $0.4\\text{ T}$ at a temperature of $4\\text{ K}$. When the sample is placed in an external magnetic field of $0.3\\text{ T}$ at a temperature of $24\\text{ K}$, then the magnetisation will be",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$4\\text{ A/m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.75\\text{ A/m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2.25\\text{ A/m}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1\\text{ A/m}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_5vxqj",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A planar loop of wire rotates in a uniform magnetic field. Initially, at $t = 0$, the plane of the loop is perpendicular to the magnetic field. If it rotates with a period of $10\\text{ s}$ about an axis in its plane then the magnitude of induced emf will be maximum and minimum, respectively at",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$2.5\\text{ s}$ and $7.5\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$5.0\\text{ s}$ and $7.5\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$5.0\\text{ s}$ and $10.0\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2.5\\text{ s}$ and $5.0\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_j7o8z",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "An infinitely long straight wire carrying current $I$, one side opened rectangular loop and a conductor C with a sliding connector are located in the same plane, as shown in the figure. The connector has length $l$ and resistance $R$. It slides to the right with a velocity $v$. The resistance of the conductor and the self inductance of the loop are negligible. The induced current in the loop, as a function of separation $r$, between the connector and the straight wire is:",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\mu_0}{\\pi}\\frac{Ivl}{Rr}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\mu_0}{2\\pi}\\frac{Ivl}{Rr}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2\\mu_0}{\\pi}\\frac{Ivl}{Rr}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\mu_0}{4\\pi}\\frac{Ivl}{Rr}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_nnbzp",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "As shown in the figure, a battery of emf $\\varepsilon$ is connected to an inductor $L$ and resistance $R$ in series. The switch is closed at $t = 0$. The total charge that flows from the battery, between $t = 0$ and $t = t_c$ ($t_c$ is the time constant of the circuit) is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\varepsilon L}{R^2}\\left(1 - \\frac{1}{e}\\right)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\varepsilon L}{R^2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\varepsilon R}{eL^2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\varepsilon L}{eR^2}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_y4o6w",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A circular coil of radius $10\\text{ cm}$ is placed in a uniform magnetic field of $3.0 \\times 10^{-5}\\text{ T}$ with its plane perpendicular to the field initially. It is rotated at constant angular speed about an axis along the diameter of coil and perpendicular to magnetic field so that it undergoes half of rotation in $0.2\\text{ s}$. The maximum value of EMF induced (in $\\mu\\text{V}$) in the coil will be close to the integer",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "15",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_nrdtt",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A part of a complete circuit is shown in the figure. At some instant, the value of current $I$ is $1\\text{ A}$ and it is decreasing at a rate of $10^2\\text{ A s}^{-1}$. The value of the potential difference $V_P - V_Q$, (in volts) at that instant, is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "33",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_985bu",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In LC circuit, the inductance $L = 40\\text{ mH}$ and capacitance $C = 100\\ \\mu\\text{F}$. If a voltage $V(t) = 10\\sin(314t)$ is applied to the circuit, the current in the circuit is given as",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$10\\cos 314t$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.52\\cos 314t$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$5.2\\cos 314t$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.52\\sin 314t$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_61ody",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A vessel of depth $2h$ is half filled with a liquid of refractive index $2\\sqrt{2}$ and the upper half with another liquid of refractive index $\\sqrt{2}$. The liquids are immiscible. The apparent depth of the inner surface of the bottom of vessel will be",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{h}{\\sqrt{2}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{3}{4}h\\sqrt{2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{h}{3\\sqrt{2}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{h}{2(\\sqrt{2}+1)}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_5w29c",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "There is a small source of light at some depth below the surface of water (refractive index $= 4/3$) in a tank of large cross sectional surface area. Neglecting any reflection from the bottom and absorption by water, percentage of light that emerges out of surface is (nearly) [Use the fact that surface area of a spherical cap of height $h$ and radius of curvature $r$ is $2\\pi rh$]",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$34\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$17\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$50\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$21\\%$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_6uyhg",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "A point like object is placed at a distance of $1\\text{ m}$ in front of a convex lens of focal length $0.5\\text{ m}$. A plane mirror is placed at a distance of $2\\text{ m}$ behind the lens. The position and nature of the final image formed by the system is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1\\text{ m}$ from the mirror, virtual",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$1\\text{ m}$ from the mirror, real",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2.6\\text{ m}$ from the mirror, real",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2.6\\text{ m}$ from the mirror, virtual",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_5h4qm",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "An observer can see through a small hole on the side of a jar (radius $15\\text{ cm}$) at a point at height of $15\\text{ cm}$ from the bottom (see figure). The hole is at a height of $45\\text{ cm}$. When the jar is filled with a liquid up to a height of $30\\text{ cm}$ the same observer can see the edge at the bottom of the jar. If the refractive index of the liquid is $N/100$, where $N$ is an integer, the value of $N$ is",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "158",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_8bm2e",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A light ray enters a solid glass sphere of refractive index $\\mu = \\sqrt{3}$ at an angle of incidence $60^\\circ$. The ray is both reflected and refracted at the farther surface of the sphere. The angle (in degrees) between the reflected and refracted rays at this surface is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "90",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_8pk33",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In a double-slit experiment, at a certain point on the screen the path difference between the two interfering waves is $(1/8)\\text{th}$ of a wavelength. The ratio of the intensity of light at that point to that at the centre of a bright fringe is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.568$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.853$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.760$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0.672$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_8i5p7",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In a Young's double slit experiment, 16 fringes are observed in a certain segment of the screen when light of wavelength $700\\text{ nm}$ is used. If the wavelength of light is changed to $400\\text{ nm}$, the number of fringes observed in the same segment of the screen would be",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$28$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$24$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$18$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$30$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_pzzjs",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A Young's double-slit experiment is performed using monochromatic light of wavelength $\\lambda$. The intensity of light at a point on the screen, where the path difference is $\\lambda$, is $K$ units. The intensity of light at a point where the path difference is $\\frac{\\lambda}{6}$ is given by $\\frac{nK}{12}$, where $n$ is an integer. The value of $n$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "9",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_zgk5p",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In a plane electromagnetic wave, the directions of electric field and magnetic field are represented by $\\hat{k}$ and $2\\hat{i} - 2\\hat{j}$, respectively. What is the unit vector along direction of propagation of the wave.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{\\sqrt{2}}(\\hat{i} + \\hat{j})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{\\sqrt{5}}(\\hat{i} + 2\\hat{j})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{\\sqrt{5}}(2\\hat{i} + \\hat{j})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{\\sqrt{2}}(\\hat{j} + \\hat{k})$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_3tkh1",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "For a plane electromagnetic wave, the magnetic field at a point $x$ and time $t$ is $\\vec{B}(x, t) = [1.2 \\times 10^{-7}\\sin(0.5 \\times 10^3 x + 1.5 \\times 10^{11} t)\\hat{k}]\\text{ T}$. The instantaneous electric field $\\vec{E}$ corresponding to $\\vec{B}$ is (speed of light $c = 3 \\times 10^8\\text{ m s}^{-1}$)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\vec{E}(x, t) = [36\\sin(0.5 \\times 10^3 x + 1.5 \\times 10^{11} t)\\hat{k}]\\frac{\\text{V}}{\\text{m}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\vec{E}(x, t) = [-36\\sin(0.5 \\times 10^3 x + 1.5 \\times 10^{11} t)\\hat{j}]\\frac{\\text{V}}{\\text{m}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\vec{E}(x, t) = [36\\sin(1 \\times 10^3 x + 0.5 \\times 10^{11} t)\\hat{j}]\\frac{\\text{V}}{\\text{m}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\vec{E}(x, t) = [36\\sin(1 \\times 10^3 x + 1.5 \\times 10^{11} t)\\hat{j}]\\frac{\\text{V}}{\\text{m}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_jexgh",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "The electric fields of two plane electromagnetic waves in vacuum are given by $\\vec{E}_1 = E_0\\hat{j}\\cos(\\omega t - kx)$ and $\\vec{E}_2 = E_0\\hat{k}\\cos(\\omega t - ky)$. At $t = 0$, a particle of charge $q$ is at origin with a velocity $\\vec{v} = 0.8c\\hat{j}$ ($c$ is the speed of light in vacuum). The instantaneous force experienced by the particle is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$E_0 q(0.8\\hat{i} - \\hat{j} + 0.4\\hat{k})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$E_0 q(0.4\\hat{i} - 3\\hat{j} + 0.8\\hat{k})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$E_0 q(-0.8\\hat{i} + \\hat{j} + \\hat{k})$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$E_0 q(0.8\\hat{i} + \\hat{j} + 0.2\\hat{k})$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkw_9gubi",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Identify the operation performed by the circuit given below:",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "AND",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "NAND",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "OR",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "NOT",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_uzyg4",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In the following digital circuit, what will be the output at 'Z', when the input $(A, B)$ are $(1, 0), (0, 0), (1, 1), (0, 1)$",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1, 0, 1, 1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0, 1, 0, 0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0, 0, 1, 0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1, 1, 0, 1$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_wqe32",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "The circuit shown below is working as a $8\\text{ V}$ dc regulated voltage source. When $12\\text{ V}$ is used as input, the power dissipated (in $\\text{mW}$) in each diode is, (considering both zener diodes are identical)",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "40",
+      "marks": 4,
+      "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_pngwz",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "In a hydrogen atom the electron makes a transition from $(n+1)\\text{th}$ level to the $n\\text{th}$ level. If $n \\gg 1$, the frequency of radiation emitted is proportional to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{n^4}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{n^3}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{n^2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{n}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_tgpka",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "Find the binding energy per nucleon for ${}_{50}^{120}\\text{Sn}$. Mass of proton $m_p = 1.00783\\text{ U}$, mass of neutron $m_n = 1.00867\\text{ U}$ and mass of tin nucleus $m_{\\text{Sn}} = 119.902199\\text{ U}$. (take $1\\text{ U} = 931\\text{ MeV}$)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$8.5\\text{ MeV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$7.5\\text{ MeV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$8.0\\text{ MeV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$9.0\\text{ MeV}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_kd70o",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "When the wavelength of radiation falling on a metal is changed from $500\\text{ nm}$ to $200\\text{ nm}$, the maximum kinetic energy of the photoelectrons becomes three times larger. The work function of the metal is close to",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.61\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$0.52\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0.81\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1.02\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_t5cas",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "An electron (of mass $m$) and a photon have the same energy $E$ in the range of a few eV. The ratio of the de-Broglie wavelength associated with the electron and the wavelength of the photon is ($c =$ speed of light in vacuum)",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\left(\\frac{E}{2m}\\right)^{1/2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{c}\\left(\\frac{2E}{m}\\right)^{1/2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$c(2mE)^{1/2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{c}\\left(\\frac{E}{2m}\\right)^{1/2}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_1qdx8",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "When photon of energy $4.0\\text{ eV}$ strikes the surface of a metal A, the ejected photoelectrons have maximum kinetic energy $T_A\\text{ eV}$ and de-Broglie wavelength $\\lambda_A$. The maximum kinetic energy of photoelectrons liberated from another metal B by photon of energy $4.50\\text{ eV}$ is $T_B = (T_A - 1.5)\\text{ eV}$. If the de-Broglie wavelength of these photoelectrons $\\lambda_B = 2\\lambda_A$ then the work function of metal B is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$1.5\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$4\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2\\text{ eV}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_kt6a1",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "single",
+      "text": "An electron (mass $m$) with initial velocity $\\vec{v} = v_0\\hat{i} + v_0\\hat{j}$ is in an electric field $\\vec{E} = -E_0\\hat{k}$. If $\\lambda_0$ is initial de-Broglie wavelength of electron, its de-Broglie wavelength at time $t$ is given by",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{\\lambda_0}{\\sqrt{1 + \\frac{e^2 E_0^2 t^2}{m^2 v_0^2}}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\lambda_0}{\\sqrt{2 + \\frac{e^2 E_0^2 t^2}{m^2 v_0^2}}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\lambda_0}{\\sqrt{1 + \\frac{e^2 E_0^2 t^2}{2m^2 v_0^2}}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\lambda_0\\sqrt{2}}{\\sqrt{1 + \\frac{e^2 E_0^2 t^2}{m^2 v_0^2}}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzcgkx_7qxyz",
+      "subject": "Physics",
+      "categoryId": "cat_phy_elec",
+      "type": "integer",
+      "text": "A beam of electromagnetic radiation of intensity $6.4 \\times 10^{-5}\\text{ W/cm}^2$ is comprised of wavelength, $\\lambda = 310\\text{ nm}$. It falls normally on a metal (work function $\\phi_0 = 2\\text{ eV}$) of surface area of $1\\text{ cm}^2$. If one in $10^3$ photons ejects an electron, total number of electrons ejected in $1\\text{ s}$ is $10^x$. ($hc = 1240\\text{ eV nm}, 1\\text{ eV} = 1.6 \\times 10^{-19}\\text{ J}$), then $x$ is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [],
+      "correctAnswer": "11",
+      "marks": 4,
+      "negativeMarks": 0,
       "solution": "",
       "saved": false,
       "done": false
