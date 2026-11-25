@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-25T10:41:13.873Z",
+  "publishedAt": "2026-11-25T10:42:08.450Z",
   "adminAuthHash": "1188e509c1f772888ca43df931791aac7b6da4819b2549d6e239bf646773425c",
   "categories": [
     {
@@ -14,6 +14,12 @@
       "id": "cat_mwqc7wgm_h2256",
       "name": "Chem theoretical questions",
       "subject": "Chemistry",
+      "description": ""
+    },
+    {
+      "id": "cat_mwvzuajp_wj8mv",
+      "name": "Challenge 9",
+      "subject": "Physics",
       "description": ""
     }
   ],
@@ -19094,6 +19100,5928 @@
       "correctAnswer": "11",
       "marks": 4,
       "negativeMarks": 0,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_2vhmi",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: Astronomical unit ($\\text{Au}$), Parsec ($\\text{Pc}$) and Light year ($\\text{ly}$) are units for measuring astronomical distances.\nStatement II: $\\text{Au} < \\text{Parsec (Pc)} < \\text{ly}$\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statements I and Statements II are correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statements I is correct but Statements II is incorrect.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statements I and Statements II are incorrect.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statements I is incorrect but statements II is correct.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0oc45",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A bomb is dropped by fighter plane flying horizontally. To an observer sitting in the plane, the trajectory of the bomb is a :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "hyperbola",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "parabola in the direction of motion of plane",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "straight line vertically down the plane",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "parabola in a direction opposite to the motion of plane",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_qzpa9",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "An object is thrown vertically upwards. At its maximum height, which of the following quantity becomes zero?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Momentum",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Potential energy",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Acceleration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Force",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_d9jfi",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "For a body projected at an angle with the horizontal from the ground, choose the correct statement.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravitational potential energy is maximum at the highest point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "The horizontal component of velocity is zero at highest point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "The vertical component of momentum is maximum at the highest point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "The kinetic energy (K.E.) is zero at the highest point of projectile motion.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_fw9ti",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: When a body is projected at an angle $45^\\circ$ it's range is maximum.\nReason R: For maximum range, the value of $\\sin 2\\theta$ should be equal to one.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_pi4i1",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: A truck and a car moving with same kinetic energy are brought to rest by applying brakes which provide equal retarding forces. Both come to rest in equal distance.\nStatement II: A car moving towards east takes a turn and moves towards north, the speed remains unchanged. The acceleration of the car is zero.\nIn the light of given statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is correct but Statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is incorrect but Statement II is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I is correct but Statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I is correct but Statement II are correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_4dm8i",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: If three forces $\\vec{F}_1$, $\\vec{F}_2$ and $\\vec{F}_3$ are represented by three sides of a triangle and $\\vec{F}_1 + \\vec{F}_2 = -\\vec{F}_3$, then these three forces are concurrent forces and satisfy the condition for equilibrium.\nStatement II: A triangle made up of three forces $\\vec{F}_1$, $\\vec{F}_2$ and $\\vec{F}_3$ as its sides taken in the same order, satisfy the condition for translatory equilibrium.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-I is false but Statement-II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-I is true but Statement-II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-I and Statement-II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-I and Statement-II are true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_9fbc4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A person is standing in an elevator. In which situation, he experiences weight loss?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "When the elevator moves upward with constant acceleration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "When the elevator moves downward with constant acceleration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "When the elevator moves upward with uniform velocity",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "When the elevator moves downward with uniform velocity",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_kjqwc",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements :\nStatement-I: An elevator can go up or down with uniform speed when its weight is balanced with the tension of its cable.\nStatement-II: Force exerted by the floor of an elevator on the foot of a person standing on it is more than his/her weight when the elevator goes down with increasing speed.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_jo061",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: An electric fan continues to rotate for some time after the current is switched off.\nReason R: Fan continues to rotate due to inertia of motion.\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is correct but R is not correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct and R is the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is not correct but R is correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ors6t",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A stone of mass $m$, tied to a string is being whirled in a vertical circle with a uniform speed. The tension in the string is :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "the same throughout the motion",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "minimum at the highest position of the circular path",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "minimum at the lowest position of the circular path",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "minimum when the rope is in the horizontal position",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_tp7jq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Identify the correct statements from the following:\n(A) Work done by a man in lifting a bucket out of a well by means of a rope tied to the bucket is negative.\n(B) Work done by gravitational force in lifting a bucket out of a well by a rope tied to the bucket is negative.\n(C) Work done by friction on a body sliding down an inclined plane is positive.\n(D) Work done by an applied force on a body moving on a rough horizontal plane with uniform velocity is zero.\n(E) Work done by the air resistance on an oscillating pendulum is negative.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B, D and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0fdw6",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: Body 'P' having mass $M$ moving with speed '$u$' has head-on collision elastically with another body 'Q' having mass '$m$' initially at rest. If $m \\ll M$, body 'Q' will have a maximum speed equal to '$2u$' after collision.\nReason R: During elastic collision, the momentum and kinetic energy are both conserved.\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is not correct but R is correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is correct but R is not correct.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0mqqz",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Angular momentum of a single particle moving with constant speed along circular path :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "changes in magnitude but remains same in the direction",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "remains same in magnitude and direction",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "remains same in magnitude but changes in the direction",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "is zero",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_nhsrw",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A planet revolving in elliptical orbit has :\nA. a constant velocity of revolution.\nB. has the least velocity when it is nearest to the sun.\nC. its areal velocity is directly proportional to its velocity.\nD. areal velocity is inversely proportional to its velocity.\nE. to follow a trajectory such that the areal velocity is constant.\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_es3f8",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Inside a uniform spherical shell:\n(a) the gravitational field is zero\n(b) the gravitational potential is zero\n(c) the gravitational field is same everywhere\n(d) the gravitation potential is same everywhere\n(e) all of the above\nChoose the most appropriate answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(a), (c) and (d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(e) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(a), (b) and (c) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(b), (c) and (d) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_new06",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: If we move from poles to equator, the direction of acceleration due to gravity of earth always points towards the center of earth without any variation in its magnitude.\nReason R: At equator, the direction of acceleration due to the gravity is towards the center of earth.\nIn the light of above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_pseuw",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: The law of gravitation holds good for any pair of bodies in the universe.\nStatement II: The weight of any person becomes zero when the person is at the centre of the earth.\nIn the light of the above statements, choose the correct answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_jeno0",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement-I: Acceleration due to gravity is different at different places on the surface of earth.\nStatement-II: Acceleration due to gravity increases as we go down below the earth's surface.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ucttk",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: Acceleration due to earth's gravity decreases as you go 'up' or 'down' from earth's surface.\nStatement II: Acceleration due to earth's gravity is same at a height '$h$' and depth '$d$' from earth's surface, if $h = d$.\nIn the light of above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but statement II is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and II are correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_4wqom",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Every planet revolves around the sun in an elliptical orbit :\nA. The force acting on a planet is inversely proportional to square of distance from sun.\nB. Force acting on planet is inversely proportional to product of the masses of the planet and the sun.\nC. The centripetal force acting on the planet is directed away from the sun.\nD. The square of time period of revolution of planet around sun is directly proportional to cube of semi-major axis of elliptical orbit.\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_us9oo",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: Earth has atmosphere whereas moon doesn't have any atmosphere.\nReason R: The escape velocity on moon is very small as compared to that on earth.\nIn the light of the above statement, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct and R is correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_wjip6",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Choose the incorrect statement from the following:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "The speed of satellite in a given circular orbit remains constant.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "For a planet revolving around the sun in an elliptical orbit, the total energy of the planet remains constant.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "When a body falls towards earth, the displacement of earth towards the body is negligible.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "The linear speed of a planet revolving around the sun remains constant.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_rlab7",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: If $E$ be the total energy of a satellite moving around the earth, then its potential energy will be $\\frac{E}{2}$.\nStatement II: The kinetic energy of a satellite revolving in an orbit is equal to half the magnitude of total energy $E$.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect but Statement II is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but Statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_qhkvt",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Two satellites A and B move round the earth in the same orbit. The mass of A is twice the mass of B. The quantity which is same for the two satellites will be :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Potential energy",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Total energy",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Kinetic energy",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Speed",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_g9i6i",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: Steel is used in the construction of buildings and bridges.\nReason R: Steel is more elastic and its elastic limit is high.\nIn the light of above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ive0b",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion (A): Clothes containing oil or grease stains cannot be cleaned by water wash.\nReason (R): Because the angle of contact between the oil/grease and water is obtuse.\nIn the light of the above statements, choose the correct answer from the option given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) is true but (R) is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) is false but (R) is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_p6h7f",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: When you squeeze one end of a tube to get toothpaste out from the other end, Pascal's principle is observed.\nReason R: A change in the pressure applied to an enclosed incompressible fluid is transmitted undiminished to every portion of the fluid and to the walls of its container.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_jaclm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: Pressure in a reservoir of water is same at all points at the same level of water.\nStatement II: The pressure applied to enclosed water is transmitted in all directions equally.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_t5ipu",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: A second's pendulum has a time period of 1 second.\nStatement II: It takes precisely one second to move between the two extreme positions.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_m0qee",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In a linear simple harmonic motion (SHM)\n(A) Restoring force is directly proportional to the displacement.\n(B) The acceleration and displacement are opposite in direction.\n(C) The velocity is maximum at mean position.\n(D) The acceleration is minimum at extreme points\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A), (B) and (C) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(C) and (D) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A), (B) and (D) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A), (C) and (D) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_e5gx5",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "On the basis of kinetic theory of gases, the gas exerts pressure because its molecules :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "are attracted by the walls of container.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "continuously stick to the walls of container.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "continuously lose their energy till it reaches wall.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "suffer change in momentum when impinge on the walls of container.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_1yh4m",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: In a diatomic molecule, the rotational energy at a given temperature obeys Maxwell's distribution.\nStatement II: In a diatomic molecule, the rotational energy at a given temperature equals the translational kinetic energy for each molecule.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ggcz1",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In thermodynamics, heat and work are:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Path functions",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Intensive thermodynamic state variables",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Extensive thermodynamic state variables",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Point functions",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_gcjky",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Following statements are given :\n(1) The average kinetic energy of a gas molecule decreases when the temperature is reduced.\n(2) The average kinetic energy of a gas molecule increases with increase in pressure at constant temperature.\n(3) The average kinetic energy of a gas molecule decreases with increases in volume.\n(4) Pressure of a gas increases with increase in temperature at constant pressure.\n(5) The volume of gas decreases with increase in temperature.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(1) and (4) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(1), (2) and (4) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(2) and (4) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(1), (2) and (5) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_w7b49",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which statements are correct about degrees of freedom?\nA. A molecule with $n$ degrees of freedom has $n^2$ different ways of storing energy.\nB. Each degree of freedom is associated with $\\frac{1}{2}RT$ average energy per mole.\nC. A monoatomic gas molecule has 1 rotational degree of freedom whereas diatomic molecule has 2 rotational degrees of freedom.\nD. $\\text{CH}_4$ has a total to 6 degrees of freedom.\nChoose the correct answer from the option given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A and B only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_v8aab",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List I with List II:\nList I:\nA. Isothermal Process\nB. Adiabatic Process\nC. Isochoric Process\nD. Isobaric Process\nList II:\nI. Work done by the gas decreases internal energy\nII. No change in internal energy\nIII. The heat absorbed goes partly to increase internal energy and partly to do work\nIV. No work is done on or by the gas\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-I, C-III, D-IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-I, C-IV, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A-I, B-II, C-IV, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A-I, B-II, C-III, D-IV",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_g3pij",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Heat is given to an ideal gas in an isothermal process.\nA. Internal energy of the gas will decrease.\nB. Internal energy of the gas will increase.\nC. Internal energy of the gas will not change.\nD. The gas will do positive work.\nE. The gas will do negative work.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "C and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_s8ztm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: If heat is added to a system, its temperature must increase.\nStatement II: If positive work is done by a system in a thermodynamic process, its volume must increase.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_zadfc",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\n(A) 3 Translational degrees of freedom\n(B) 3 Translational, 2 rotational degrees of freedoms\n(C) 3 Translational, 2 rotational and 1 vibrational degrees of freedom\n(D) 3 Translational, 3 rotational and more than one vibrational degrees of freedom\nList-II:\n(I) Monoatomic gases\n(II) Polyatomic gases\n(III) Rigid diatomic gases\n(IV) Nonrigid diatomic gases\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) - (IV), (B) - (III), (C) - (II), (D) - (I)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A) - (IV), (B) - (II), (C) - (I), (D) - (III)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) - (I), (B) - (III), (C) - (IV), (D) - (II)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) - (I), (B) - (IV), (C) - (III), (D) - (II)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_wh8uo",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A gas is compressed adiabatically, which one of the following statement is NOT true.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "There is no heat supplied to the system",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "The temperature of the gas increases",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "The change in the internal energy is equal to the work done on the gas.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "There is no change in the internal energy",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_z2t9u",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: An electric dipole is placed at the centre of a hollow sphere. The flux of electric field through the sphere is zero but the electric field is not zero anywhere in the sphere.\nStatement II: If $R$ is the radius of a solid metallic sphere and $Q$ be the total charge on it. The electric field at any point on the spherical surface of radius $r (< R)$ is zero but the electric flux passing through this closed spherical surface of radius $r$ is not zero.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_5mitg",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Choose the incorrect statement:\n(a) The electric lines of force entering into a Gaussian surface provide negative flux.\n(b) A charge '$q$' is placed at the centre of a cube. The flux through all the faces will be the same.\n(c) In a uniform electric field net flux through a closed Gaussian surface containing no net charge, is zero.\n(d) When electric field is parallel to a Gaussian surface, it provides a finite non-zero flux.\nChoose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(c) and (d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(b) and (d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(a) and (c) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_yg1xm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion (A): Non-polar material do not have any permanent dipole moment.\nReason (R): When a non-polar material is placed in an electric field the centre of the positive charge distribution of its individual atom or molecule coincides with the centre of the negative charge distribution.\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both (A) and (R) are correct and (R) is not the correct explanation of (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) is correct but (R) is not correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) is not correct but (R) is correct.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_mtnm2",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement-I: A point charge is brought in an electric field. The value of electric field at a point near to the charge may increase if the charge is positive.\nStatement-II: An electric dipole is placed in a non-uniform electric field. The net electric force on the dipole will not be zero.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement-I and statement-II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement-I and statement-II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement-I is true but statement-II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement-I is false but statement-II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ocxph",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: Electric potential is constant within and at the surface of each conductor.\nStatement II: Electric field just outside a charged conductor is perpendicular to the surface of the conductor at every point.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and statement II are correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement I and statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is incorrect but statement II is correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_82fx1",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Considering a group of positive charges, which of the following statements is correct?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Net potential of the system cannot be zero at a point but net electric field can be zero at that point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Net potential of the system at a point can be zero but net electric field can't be zero at that point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both the net potential and the net field can be zero at a point.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both the net potential and the net electric field cannot be zero at a point.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_9kuhq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: Two metallic spheres are charged to the same potential. One of them is hollow and another is solid, and both have the same radii. Solid sphere will have lower charge than the hollow one.\nReason R: Capacitance of metallic spheres depend on the radii of spheres.\nIn the light of the above statements, choose the correct answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true but R is not the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ixs90",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Consider four conducting materials copper, tungsten, mercury and aluminium with resistivity $\\rho_C, \\rho_T, \\rho_M$ and $\\rho_A$ respectively",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\rho_M > \\rho_A > \\rho_C$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\rho_C > \\rho_A > \\rho_T$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\rho_A > \\rho_M > \\rho_C$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\rho_A > \\rho_T > \\rho_C$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_mvreh",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A circuit to verify Ohm's law uses ammeter and voltmeter in series or parallel connected correctly to the resistor. In the circuit",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "ammeter is always connected series and voltmeter in parallel.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both, ammeter and voltmeter must be connected in series.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both ammeter and voltmeter must be connected in parallel.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "ammeter is always used in parallel and voltmeter is series.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_ydueh",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The current sensitivity of a galvanometer can be increased by:\n(A) decreasing the number of turns\n(B) increasing the magnetic field\n(C) decreasing the area of the coil\n(D) decreasing the torsional constant of the spring\nChoose the most appropriate answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(B) and (C) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(C) and (D) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) and (C) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(B) and (D) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_fbyw0",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: Alloys such as constantan and manganin are used in making standard resistance coils.\nReason R: Constantan and manganin have very small value of temperature coefficient of resistance.\nIn the light of the above statements, choose the correct answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_xjeg4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: For measuring the potential difference across a resistance of $600\\ \\Omega$, the voltmeter with resistance $1000\\ \\Omega$ will be preferred over voltmeter with resistance $4000\\ \\Omega$.\nReason R: Voltmeter with higher resistance will draw smaller current than voltmeter with lower resistance.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct but R is not the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_fj54c",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: The equivalent resistance of resistors in a series combination is smaller than least resistance used in the combination.\nStatement II: The resistivity of the material is independent of temperature.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_3ub4b",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A perfectly diamagnetic sphere has a small spherical cavity at its centre, which is filled with a paramagnetic substance. The whole system is placed in a uniform magnetic field $\\vec{B}$. Then the field inside the paramagnetic substance is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\vec{B}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "much larger than $|\\vec{B}|$ but opposite to $\\vec{B}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "much larger than $|\\vec{B}|$ and parallel to $\\vec{B}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_t2ej4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A soft ferromagnetic material is placed in an external magnetic field. The magnetic domains:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increase in size but no change in orientation.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "have no relation with external magnetic field.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "decrease in size and changes orientation.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "may increase or decrease in size and change its orientation.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_vjer7",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In a ferromagnetic material, below the curie temperature, a domain is defined as:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "a macroscopic region with zero magnetization.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "a macroscopic region with consecutive magnetic dipoles oriented in opposite direction.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "a macroscopic region with randomly oriented magnetic dipoles.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "a macroscopic region with saturation magnetization.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_a89c8",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A loop of flexible wire of irregular shape carrying current is placed in an external magnetic field. Identify the effect of the field on the wire.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Loop assumes circular shape with its plane normal to the field.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Loop assumes circular shape with its plane parallel to the field.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Wire gets stretched to become straight.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Shape of the loop remains unchanged.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_786wx",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which of the following statements are correct?\n(A) Electric monopoles do not exist whereas magnetic monopoles exist.\n(B) Magnetic field lines due to a solenoid at its ends and outside cannot be completely straight and confined.\n(C) Magnetic field lines are completely confined within a toroid.\n(D) Magnetic field lines inside a bar magnet are not parallel.\n(E) $\\chi = -1$ is the condition for a perfect diamagnetic material, where $\\chi$ is its magnetic susceptibility.\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(C) and (E) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(B) and (D) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) and (B) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(B) and (C) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_47pcd",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: The ferromagnetic property depends on temperature. At high temperature, ferromagnet becomes paramagnet.\nStatement II: At high temperature, the domain wall area of a ferromagnetic substance increases.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_4kdm2",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion (A): In a uniform magnetic field, speed and energy remains the same for a moving charged particle.\nReason (R): Moving charged particle experiences magnetic force perpendicular to its direction of motion.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) is true but (R) is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) is false but (R) is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_u6344",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement - I: Susceptibilities of paramagnetic and ferromagnetic substances increase with decrease in temperature.\nStatement - II: Diamagnetism is a result of orbital motions of electrons developing magnetic moments opposite to the applied magnetic field.\nChoose the CORRECT answer from the options given below: -",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement - I and statement -II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement - I and Statement - II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement - I is true but statement - II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement - I is false but Statement - II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_mynb9",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: The electric force changes the speed of the charged particle and hence changes its kinetic energy; whereas the magnetic force does not change the kinetic energy of the charged particle.\nStatement II: The electric force accelerates the positively charged particle perpendicular to the direction of electric field. The magnetic force accelerates the moving charged particle along the direction of magnetic field.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are correct.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are incorrect.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but Statement II is incorrect.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is incorrect but Statement II is correct.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_k5h52",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A charged particle moving in magnetic field $B$, has the components of velocity along $B$ as well as perpendicular to $B$. The path of the charged particle will be",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "helical path with the axis perpendicular to the direction of magnetic field $B$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "straight along the direction of magnetic field $B$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "helical path with the axis along magnetic field $B$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "circular path",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_lq4p3",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Certain galvanometers have a fixed core made of non-magnetic metallic material. The function of this metallic material is",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "to oscillate the coil in magnetic field for longer period of time",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "to bring the coil to rest quickly",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "to produce large deflecting torque on the coil",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "to make the magnetic field radial",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_63qc4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: For diamagnetic substance, $-1 \\le \\chi < 0$, where $\\chi$ is the magnetic susceptibility.\nStatement II: Diamagnetic substances when placed in an external magnetic field, tend to move from stronger to weaker part of the field.\nIn the light of the above statements, choose the correct answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is incorrect but Statement II is true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_rkcas",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "An electron is allowed to move with constant velocity along the axis of current carrying straight solenoid.\nA. The electron will experience magnetic force along the axis of the solenoid.\nB. The electron will not experience magnetic force.\nC. The electron will continue to move along the axis of the solenoid.\nD. The electron will be accelerated along the axis of the solenoid.\nE. The electron will follow parabolic path inside the solenoid.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B, C and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "B and E only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_cfhbm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: The diamagnetic property depends on temperature.\nStatement II: The induced magnetic dipole moment in a diamagnetic sample is always opposite to the magnetizing field.\nIn the light of given statement, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_sgwdm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "An electron is moving along the positive $x$-axis. If the uniform magnetic field is applied parallel to the negative $z$-axis, then\nA. The electron will experience magnetic force along positive $y$-axis\nB. The electron will experience magnetic force along negative $y$-axis\nC. The electron will not experience any force in magnetic field\nD. The electron will continue to move along the positive $x$-axis\nE. The electron will move along circular path in magnetic field\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_4ht7a",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\n(A) AC generator\n(B) Galvanometer\n(C) Transformer\n(D) Metal detector\nList-II:\n(I) Detects the presence of current in the circuit\n(II) Converts mechanical energy into electrical energy\n(III) Works on the principle of resonance in AC circuit\n(IV) Changes an alternating voltage for smaller or greater value\nChoose the correct answer from the options given below :-",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)-(II), B-(I), (C)-(IV), (D)-(III)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A)-(II), B-(I), (C)-(III), (D)-(IV)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A)-(III), B-(IV), (C)-(II), (D)-(I)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A)-(III), B-(I), (C)-(II), (D)-(IV)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_t3jm4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A coil is placed in magnetic field such that plane of coil is perpendicular to the direction of magnetic field. The magnetic flux through a coil can be changed:\nA. By changing the magnitude of the magnetic field within the coil.\nB. By changing the area of coil within the magnetic field.\nC. By changing the angle between the direction of magnetic field and the plane of the coil.\nD. By reversing the magnetic field direction abruptly without changing its magnitude.\nChoose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and B only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A, B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A, B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_qro08",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Spherical insulating ball and a spherical metallic ball of same size and mass are dropped from the same height. Choose the correct statement out of the following {Assume negligible air friction}",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Time taken by them to reach the earth's surface will be independent of the properties of their materials",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Insulating ball will reach the earth's surface earlier than the metal ball",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both will reach the earth's surface simultaneously",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Metal ball will reach the earth's surface earlier than the insulating ball.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_vlltw",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The induced emf can be produced in a coil by\nA. moving the coil with uniform speed inside magnetic field\nB. moving the coil with non-uniform speed inside uniform magnetic field\nC. rotating the coil inside the uniform magnetic field\nD. changing the area of the coil inside the uniform magnetic field\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_3ax28",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A bar magnet is released from rest along the axis of a very long vertical copper tube. After some time the magnet will",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Move down with almost constant speed",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Oscillate inside the tube",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Move down with an acceleration greater than $g$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Move down with an acceleration equal to $g$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_9uyc1",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: A bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with same geometry and mass.\nReason R: For the magnetic bar, Eddy currents are produced in the metallic pipe which oppose the motion of the magnetic bar.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_82y3w",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\n(a) $\\omega L > \\frac{1}{\\omega C}$\n(b) $\\omega L = \\frac{1}{\\omega C}$\n(c) $\\omega L < \\frac{1}{\\omega C}$\n(d) Resonant frequency\nList-II:\n(i) Current is in phase with emf\n(ii) Current lags behind the applied emf\n(iii) Maximum current occurs\n(iv) Current leads the emf\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(a)-(ii); (b)-(i); (c)-(iv); (d)-(iii)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(a)-(ii); (b)-(i); (c)-(iii); (d)-(iv)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(a)-(iii); (b)-(i); (c)-(iv); (d)-(ii)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(a)-(iv); (b)-(iii); (c)-(ii); (d)-(i)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0hwk3",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement-I: The reactance of an ac circuit is zero. It is possible that the circuit contains a capacitor and an inductor.\nStatement-II: In ac circuit, the average power delivered by the source never becomes zero.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is true but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_nrlva",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "For a series LCR circuit, $I$ vs $\\omega$ curve is shown:\n(a) To the left of $\\omega_r$, the circuit is mainly capacitive.\n(b) To the left of $\\omega_r$, the circuit is mainly inductive.\n(c) At $\\omega_r$, impedance of the circuit is equal to the resistance of the circuit.\n(d) At $\\omega_r$, impedance of the circuit is $0$.\nChoose the most appropriate answer from the options given below :",
+      "hasImage": true,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(a) and (d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(b) and (d) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(a) and (c) only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(b) and (c) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_sc8fm",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "To increase the resonant frequency in series LCR circuit,",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Source frequency should be increased",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Another resistance should be added in series with the first resistance.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Another capacitor should be added in series with the first capacitor",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "The source frequency should be decreased",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_fibyf",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "When you walk through a metal detector carrying a metal object in your pocket, it raises an alarm. This phenomenon works on",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Electromagnetic induction",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Resonance in ac circuits",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Mutual induction in ac circuits",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "interference of electromagnetic waves",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_3mbpr",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List I with List II:\nList I:\nA. AC generator\nB. Transformer\nC. Resonance phenomenon to occur\nD. Sharpness of resonance\nList II:\nI. Presence of both L and C\nII. Electromagnetic Induction\nIII. Quality factor\nIV. Mutual Induction\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-IV, B-II, C-I, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A-II, B-I, C-III, D-IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A-II, B-IV, C-I, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A-IV, B-III, C-I, D-II",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_78ogo",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: Maximum power is dissipated in a circuit containing an inductor, a capacitor and resistor connected in series with an AC source, when resonance occurs.\nStatement II: Maximum power is dissipated in a circuit containing pure resistor due to zero phase difference between current and voltage.\nIn the light of the above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_wppuq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: When the frequency of an a.c. source in a series LCR circuit increases, the current in the circuit first increases, attains a maximum value and then decreases.\nStatement II: In a series LCR circuit, the value of power factor at resonance is one.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but Statement II is true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0d5bl",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: An AC circuit undergoes electrical resonance if it contains either a capacitor or an inductor.\nStatement II: An AC circuit containing a pure capacitor or a pure inductor consumes high power due to its non-zero power factor.\nIn the light of above statements, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_0d50f",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The angle of deviation through a prism is minimum when\n(A) Incident ray and emergent ray are symmetric to the prism\n(B) The refracted ray inside the prism becomes parallel to its base\n(C) Angle of incidence is equal to that of the angle of emergence\n(D) When angle of emergence is double the angle of incidence\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statements (A), (B) and (C) are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Only statement (D) is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Only statements (A) and (B) are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statements (B) and (C) are true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzuloe_2lynq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Your friend is having eye sight problem. She is not able to see clearly a distant uniform window mesh and it appears to her as non-uniform and distorted. The doctor diagnosed the problem as:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Astigmatism",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Myopia with Astigmatism",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Presbyopia with Astigmatism",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Myopia and hypermetropia",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_3qjuj",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "If a wave gets refracted into a denser medium, then which of the following is true?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "wavelength, speed and frequency decreases.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "wavelength increases, speed decreases and frequency remains constant.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "wavelength and speed decreases but frequency remains constant.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "wavelength, speed and frequency increases.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_fbi6l",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which of the following statement is correct?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "In primary rainbow, observer sees red colour on the top and violet on the bottom",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "In primary rainbow, observer sees violet colour on the top and red on the bottom",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "In primary rainbow, light wave suffers total internal reflection twice before coming out of water drops",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Primary rainbow is less bright than secondary rainbow.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_nvy0b",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "When a beam of white light is allowed to pass through convex lens parallel to principal axis, the different colours of light converge at different point on the principle axis after refraction. This is called:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Scattering",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Chromatic aberration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Spherical aberration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Polarisation",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_yg67o",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The light rays from an object have been reflected towards an observer from a standard flat mirror, the image observed by the observer are :-\nA. Real\nB. Erect\nC. Smaller in size than object\nD. Laterally inverted\nChoose the most appropriate answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A, C and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_nbyko",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In a reflecting telescope, a secondary mirror is used to:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "reduce the problem of mechanical support",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "remove spherical aberration",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "make chromatic aberration zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "move the eyepiece outside the telescopic tube",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_dgmtp",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "If the source of light used in a Young's double slit experiment is changed from red to violet:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "consecutive fringe lines will come closer.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "the central bright fringe will become a dark fringe.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "the fringes will become brighter.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "the intensity of minima will increase.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_8etqo",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Consider the diffraction pattern obtained from the sunlight incident on a pinhole of diameter $0.1\\ \\mu\\text{m}$. If the diameter of the pinhole is slightly increased, it will affect the diffraction pattern such that:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "its size decreases, and intensity decreases",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "its size increases, and intensity increases",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "its size increases, but intensity decreases",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "its size decreases, but intensity increases",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_eclzu",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In Young's double slit experiment, if the source of light changes from orange to blue then :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "the central bright fringe will become a dark fringe.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "the distance between consecutive fringes will decrease.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "the distance between consecutive fringes will increase.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "the intensity of the minima will increase.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_hkg22",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A light whose electric field vectors are completely removed by using a good Polaroid, allowed to incident on the surface of the prism at Brewster's angle. Choose the most suitable option for the phenomenon related to the prism.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Reflected and refracted rays will be perpendicular to each other",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Wave will propagate along the surface of prism",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "No refraction, and there will be total reflection of light.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "No reflection and there will be total transmission of light.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_plw90",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: If the Brewster's angle for the light propagating from air to glass is $\\theta_B$, then Brewster's angle for the light propagating from glass to air is $\\frac{\\pi}{2} - \\theta_B$.\nStatement II: The Brewster's angle for the light propagating from glass to air is $\\tan^{-1}(\\mu_g)$ where $\\mu_g$ is the refractive index of glass.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statements I and Statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is true but Statement II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is false but Statement II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_53q8f",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: The phase difference of two light waves change if they travel through different media having same thickness, but different indices of refraction.\nReason R: The wavelengths of waves are different in different media.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_preu5",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Choose the correct option relating wavelengths of different parts of electromagnetic wave spectrum",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\lambda_{\\text{x-rays}} < \\lambda_{\\text{micro waves}} < \\lambda_{\\text{radio waves}} < \\lambda_{\\text{visible}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\lambda_{\\text{visible}} > \\lambda_{\\text{x-rays}} > \\lambda_{\\text{radio waves}} > \\lambda_{\\text{micro waves}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\lambda_{\\text{radio waves}} > \\lambda_{\\text{micro waves}} > \\lambda_{\\text{visible}} > \\lambda_{\\text{x-rays}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\lambda_{\\text{visible}} < \\lambda_{\\text{micro waves}} < \\lambda_{\\text{radio waves}} < \\lambda_{\\text{x-rays}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_rt3nw",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The correct match between the entries in column I and column II are:\nColumn I (Radiation):\n(A) Microwave\n(B) Gamma rays\n(C) A.M. radio waves\n(D) X-rays\nColumn II (Wavelength):\n(i) $100\\text{ m}$\n(ii) $10^{-15}\\text{ m}$\n(iii) $10^{-10}\\text{ m}$\n(iv) $10^{-3}\\text{ m}$",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)-(ii), (B)-(i), (C)-(iv), (D)-(iii)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A)-(i), (B)-(iii), (C)-(iv), (D)-(ii)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A)-(iii), (B)-(ii), (C)-(i), (D)-(iv)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A)-(iv), (B)-(ii), (C)-(i), (D)-(iii)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_ezwz8",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which is the correct ascending order of wavelengths?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\lambda_{\\text{visible}} < \\lambda_{\\text{X-ray}} < \\lambda_{\\text{gamma-ray}} < \\lambda_{\\text{microwave}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\lambda_{\\text{gamma-ray}} < \\lambda_{\\text{X-ray}} < \\lambda_{\\text{visible}} < \\lambda_{\\text{microwave}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\lambda_{\\text{X-ray}} < \\lambda_{\\text{gamma-ray}} < \\lambda_{\\text{visible}} < \\lambda_{\\text{microwave}}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\lambda_{\\text{microwave}} < \\lambda_{\\text{visible}} < \\lambda_{\\text{gamma-ray}} < \\lambda_{\\text{X-ray}}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_xksry",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\n(a) Ultraviolet rays\n(b) Microwaves\n(c) Infrared waves\n(d) X-rays\nList-II:\n(i) Study crystal structure\n(ii) Greenhouse effect\n(iii) Sterilizing surgical instrument\n(iv) Radar system\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_63s4g",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: A time varying electric field is a source of changing magnetic field and vice-versa. Thus a disturbance in electric or magnetic field creates EM waves.\nStatement II: In a material medium, the EM wave travels with speed $v = \\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}$.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement I and statement II are false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but statement II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is incorrect but statement II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_c0lmv",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Identify the correct statements from the following descriptions of various properties of electromagnetic waves.\nA. In a plane electromagnetic wave electric field and magnetic field must be perpendicular to each other and direction of propagation of wave should be along electric field or magnetic field.\nB. The energy in electromagnetic wave is divided equally between electric and magnetic fields.\nC. Both electric field and magnetic field are parallel to each other and perpendicular to the direction of propagation of wave.\nD. The electric field, magnetic field and direction of propagation of wave must be perpendicular to each other.\nE. The ratio of amplitude of magnetic field to the amplitude of electric field is equal to speed of light.\nChoose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B, C and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A, B and E only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_8l93x",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List - I with List - II:\nList - I:\n(a) UV rays\n(b) X-rays\n(c) Microwave\n(d) Infrared wave\nList - II:\n(i) Diagnostic tool in medicine\n(ii) Water purification\n(iii) Communication, Radar\n(iv) Improving visibility in foggy days\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_8z1k0",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List I with List II:\nList I:\nA. Microwaves\nB. Gamma rays\nC. Radio waves\nD. X-rays\nList II:\nI. Radioactive decay of the nucleus\nII. Rapid acceleration and deceleration of electron in aerials\nIII. Inner shell electrons\nIV. Klystron valve\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-I, B-II, C-III, D-IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A-IV, B-I, C-II, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A-I, B-III, C-IV, D-II",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A-IV, B-III, C-II, D-I",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_1pu7p",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\nA. Gauss's Law in Electrostatics\nB. Faraday's Law\nC. Gauss's Law in Magnetism\nD. Ampere-Maxwell Law\nList-II:\nI. $\\oint \\vec{E} \\cdot d\\vec{l} = -\\frac{d\\Phi_B}{dt}$\nII. $\\oint \\vec{B} \\cdot d\\vec{A} = 0$\nIII. $\\oint \\vec{B} \\cdot d\\vec{l} = \\mu_0 i_C + \\mu_0 \\varepsilon_0 \\frac{d\\Phi_E}{dt}$\nIV. $\\oint \\vec{E} \\cdot d\\vec{s} = \\frac{q}{\\varepsilon_0}$\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-IV, B-I, C-II, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A-I, B-II, C-III, D-IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A-III, B-IV, C-I, D-II",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A-II, B-III, C-IV, D-I",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_weyel",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which of the following are true?\nA. Speed of light in vacuum is dependent on the direction of propagation.\nB. Speed of light in a medium is independent of the wavelength of light.\nC. The speed of light is independent of the motion of the source.\nD. The speed of light in a medium is independent of intensity.\nChoose the correct answer from the option given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "C and D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_c1ib4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List-I with List-II:\nList-I:\nA. Microwaves\nB. UV rays\nC. Infra-red rays\nD. X-rays\nList-II:\nI. Physiotherapy\nII. Treatment of cancer\nIII. Lasik eye surgery\nIV. Aircraft navigation\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A-II, B-IV, C-III, D-I",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A-IV, B-I, C-II, D-III",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A-IV, B-III, C-I, D-II",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A-III, B-II, C-I, D-IV",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_9r2ck",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The waves emitted when a metal target is bombarded with high energy electrons are",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Microwaves",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "X-rays",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Infrared rays",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Radio Waves",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_6c5ob",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: EM waves used for optical communication have longer wavelengths than that of microwave, employed in Radar technology.\nReason R: Infrared EM waves are more energetic than microwaves, (used in Radar)\nIn the light of given statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both A and R true but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_2rdg8",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List I with List II:\nList I:\n(A) Microwave\n(B) Ultraviolet\n(C) X-Ray\n(D) Infra-red\nList II:\n(I) $400\\text{ nm}$ to $1\\text{ nm}$\n(II) $1\\text{ nm}$ to $10^{-3}\\text{ nm}$\n(III) $1\\text{ mm}$ to $700\\text{ nm}$\n(IV) $0.1\\text{ m}$ to $1\\text{ mm}$\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_qfkvq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Zener breakdown occurs in a $p$-$n$ junction having $p$ and $n$ both:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "lightly doped and have wide depletion layer.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "heavily doped and have narrow depletion layer.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "lightly doped and have narrow depletion layer.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "heavily doped and have wide depletion layer.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_b63kg",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "For extrinsic semiconductors; when doping level is increased;",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Fermi-level of $p$-type semiconductor will go upward and Fermi-level of $n$-type semiconductors will go downward.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Fermi-level of $p$-type semiconductors will go downward and Fermi-level of $n$-type semiconductor will go upward.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Fermi-level of both $p$-type and $n$-type semiconductors will go upward for $T > T_F\\text{ K}$ and downward for $T < T_F\\text{ K}$, where $T_F$ is Fermi temperature.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Fermi-level of $p$ and $n$-type semiconductors will not be affected.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_05qus",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement-I: By doping silicon semiconductor with pentavalent material, the electrons density increases.\nStatement-II: The $n$-type semiconductor has net negative charge.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement-I is true but Statement-II is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement-I is false but Statement-II is true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement-I and Statement-II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement-I and Statement-II are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_67kb3",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement-I: To get a steady dc output from the pulsating voltage received from a full wave rectifier we can connect a capacitor across the output parallel to the load $R_L$.\nStatement-II: To get a steady dc output from the pulsating voltage received from a full wave rectifier we can connect an inductor in series with $R_L$.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_3cxvr",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The photodiode is used to detect the optical signals. These diodes are preferably operated in reverse biased mode because:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "fractional change in majority carriers produce higher forward bias current",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "fractional change in majority carriers produce higher reverse bias current",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "fractional change in minority carriers produce higher forward bias current",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "fractional change in minority carriers produce higher reverse bias current",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_e72g0",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Match List I with List II:\nList I:\nA. Intrinsic Semiconductor\nB. $n$-type semiconductor\nC. $p$-type semiconductor\nD. Metals\nList II:\nI. Fermi-level near the valence band\nII. Fermi-level in the middle of valence and conduction band\nIII. Fermi-level near the conduction band\nIV. Fermi-level inside the conduction band\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) $\\to$ I, (B) $\\to$ II, (C) $\\to$ III, (D) $\\to$ IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A) $\\to$ II, (B) $\\to$ I, (C) $\\to$ III, (D) $\\to$ IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(A) $\\to$ II, (B) $\\to$ III, (C) $\\to$ I, (D) $\\to$ IV",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) $\\to$ III, (B) $\\to$ I, (C) $\\to$ II, (D) $\\to$ IV",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_fy2ci",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Choose the correct statement about Zener diode:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "It works as a voltage regulator in reverse bias and behaves like simple $pn$ junction diode in forward bias.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "It works as a voltage regulator in both forward and reverse bias.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "It works as a voltage regulator only in forward bias.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "It works as a voltage regulator in forward bias and behaves like simple $pn$ junction diode in reverse bias.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_3b49i",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R\nAssertion A: Photodiodes are preferably operated in reverse bias condition for light intensity measurement.\nReason R: The current in the forward bias is more than the current in the reverse bias for a $p$-$n$ junction diode.\nIn the light of the above statement, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_fwxcq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: Photodiodes are used in forward bias usually for measuring the light intensity.\nReason R: For a $p$-$n$ junction diode, at applied voltage $V$ the current in the forward bias is more than the current in the reverse bias for $|V_z| > \\pm V \\ge |V_0|$ where $V_0$ is the threshold voltage and $V_z$ is the breakdown voltage.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is correct explanation A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true but R is NOT the correct explanation A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_hlvp5",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: When a Si sample is doped with Boron, it becomes P type and when doped by Arsenic it becomes N-type semiconductor such that P-type has excess holes and N-type has excess electrons.\nStatement II: When such P-type and N-type semiconductors, are fused to make a junction, a current will automatically flow which can be detected with an externally connected ammeter.\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Statement I and statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Statement I is incorrect but statement II is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Both Statement I and statement II are correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is correct but statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_n5m2l",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Which of the following statement is not correct in the case of light emitting diodes?\nA. It is a heavily doped $p$-$n$ junction.\nB. It emits light only when it is forward biased.\nC. It emits light only when it is reverse biased.\nD. The energy of the light emitted is equal to or slightly less than the energy gap of the semiconductor used.\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "C and D",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "C",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "B",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_2s071",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The effect of increase in temperature on the number of electrons in conduction band ($n_e$) and resistance of a semiconductor will be as:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both $n_e$ and resistance decrease",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both $n_e$ and resistance increase",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$n_e$ increases, resistance decreases",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$n_e$ decreases, resistance increases",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_ykkmx",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: Diffusion current in a $p$-$n$ junction is greater than the drift current in magnitude if the junction is forward biased.\nReason R: Diffusion current in a $p$-$n$ junction is from the $n$-side to the $p$-side if the junction is forward biased.\nIn the light of the above statements, choose the most appropriate answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_gsxl1",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The atomic hydrogen emits a line spectrum consisting of various series. Which series of hydrogen atomic spectra is lying in the visible region ?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Brackett series",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Paschen series",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Lyman series",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Balmer series",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_y7iew",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "The decay of a proton to neutron is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "not possible as proton mass is less than the neutron mass",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "possible only inside the nucleus",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "not possible but neutron to proton conversion is possible",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "always possible as it is associated only with $\\beta^+$ decay",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_k8qn4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Consider the following statements :\nA. Atoms of each element emit characteristics spectrum.\nB. According to Bohr's Postulate, an electron in a hydrogen atom, revolves in a certain stationary orbit.\nC. The density of nuclear matter depends on the size of the nucleus.\nD. A free neutron is stable but a free proton decay is possible.\nE. Radioactivity is an indication of the instability of nuclei.\nChoose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A, B, C, D and E",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A, B and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B and D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A, C and E only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_tn3dc",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In a photoelectric experiment, increasing the intensity of incident light :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases the number of photons incident and also increases the K.E. of the ejected electrons",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "increases the frequency of photons incident and increases the K.E. of the ejected electrons.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "increases the frequency of photons incident and the K.E. of the ejected electrons remains unchanged",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "increases the number of photons incident and the K.E. of the ejected electrons remains unchanged",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_rds0h",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Choose the correct option from the following options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "In the ground state of Rutherford's model electrons are in stable equilibrium. While in Thomson's model electrons always experience a net-force.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "An atom has a nearly continuous mass distribution in a Rutherford's model but has a highly non-uniform mass distribution in Thomson's model",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A classical atom based on Rutherford's model is doomed to collapse.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "The positively charged part of the atom possesses most of the mass in Rutherford's model but not in Thomson's model.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_rstw2",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In Bohr's atomic model of hydrogen, let $K, P$ and $E$ are the kinetic energy, potential energy and total energy of the electron respectively. Choose the correct option when the electron undergoes transitions to a higher level :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "All $K, P$ and $E$ increase.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$K$ decreases, $P$ and $E$ increase.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$P$ decreases, $K$ and $E$ increase.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$K$ increases, $P$ and $E$ decrease.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_tao10",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: In hydrogen atom, the frequency of radiation emitted when an electron jumps from lower energy orbit ($E_1$) to higher energy orbit ($E_2$), is given as $hf = E_1 - E_2$.\nStatement-II: The jumping of electron from higher energy orbit ($E_2$) to lower energy orbit ($E_1$) is associated with frequency of radiation given as $f = (E_2 - E_1)/h$. This condition is Bohr's frequency condition.\nIn the light of the above statements, choose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both statement I and statement II are true.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both statement I and statement II are false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Statement I is incorrect but statement II is true.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_xwdyq",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: The photoelectric effect does not take place, if the energy of the incident radiation is less than the work function of a metal.\nReason R: Kinetic energy of the photoelectrons is zero, if the energy of the incident radiation is equal to the work function of a metal.\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are correct and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are correct but R is not the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is correct but R is not correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A is not correct but R is correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_02vfs",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "With reference to the observations in photo-electric effect, identify the correct statements from below:\nA. The square of maximum velocity of photoelectrons varies linearly with frequency of incident light.\nB. The value of saturation current increases on moving the source of light away from the metal surface.\nC. The maximum kinetic energy of photo-electrons decreases on decreasing the power of LED (light emitting diode) source of light.\nD. The immediate emission of photo-electrons out of metal surface can not be explained by particle nature of light/electromagnetic waves.\nE. Existence of threshold wavelength can not be explained by wave nature of light/electromagnetic waves.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and B only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "C and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "D and E only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_pzuqp",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Read the following statements:\n(A) Volume of the nucleus is directly proportional to the mass number.\n(B) Volume of the nucleus is independent of mass number.\n(C) Density of the nucleus is directly proportional to the mass number.\n(D) Density of the nucleus is directly proportional to the cube root of the mass number.\n(E) Density of the nucleus is independent of the mass number.\nChoose the correct option from the following options.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "(A) and (D) only.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "(A) and (E) only.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "(B) and (E) only.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "(A) and (C) only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_py3s3",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "From the photoelectric effect experiment, following observations are made. Identify which of these are correct:\nA. The stopping potential depends only on the work function of the metal.\nB. The saturation current increases as the intensity of incident light increases.\nC. The maximum kinetic energy of a photo electron depends on the intensity of the incident light.\nD. Photoelectric effect can be explained using wave theory of light.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "B, C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A, C, D only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A, B, D only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_sahs9",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements:\nStatement I: Stopping potential in photoelectric effect does not depend on the power of the light source.\nStatement II: For a given metal, the maximum kinetic energy of the photoelectron depends on the wavelength of the incident light.\nIn the light of above statements, choose the most appropriate answer from the options given below.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is incorrect but statement II is correct",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is correct but statement II is incorrect",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both statement I and statement II are correct",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_qema4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.\nAssertion A: The nuclear density of nuclides ${}_{5}^{10}\\text{B}$, ${}_{3}^{6}\\text{Li}$, ${}_{26}^{56}\\text{Fe}$, ${}_{10}^{20}\\text{Ne}$ and ${}_{83}^{209}\\text{Bi}$ can be arranged as $\\rho_{\\text{Bi}}^N > \\rho_{\\text{Fe}}^N > \\rho_{\\text{Ne}}^N > \\rho_{\\text{B}}^N > \\rho_{\\text{Li}}^N$\nReason R: The radius $R$ of nucleus is related to its mass number $A$ as $R = R_0 A^{1/3}$, where $R_0$ is a constant.\nIn the light of the above statement, choose the correct answer from the options given below :",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_h126z",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "A free neutron decays into a proton but a free proton does not decay into neutron. This is because",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "neutron is an uncharged particle",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "proton is a charged particle",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "neutron is a composite particle made of a proton and an electron",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "neutron has larger rest mass than proton",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_o8vie",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "In photo electric effect\nA. The photocurrent is proportional to the intensity of the incident radiation.\nB. Maximum Kinetic energy with which photoelectrons are emitted depends on the intensity of incident light.\nC. Max. K.E with which photoelectrons are emitted depends on the frequency of incident light.\nD. The emission of photoelectrons require a minimum threshold intensity of incident radiation.\nE. Max. K.E of the photoelectrons is independent of the frequency of the incident light.\nChoose the correct answer from the options given below:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "A and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A and E only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "B and C only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "A and B only",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_4pqc4",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Assertion A: The binding energy per nucleon is practically independent of the atomic number for nuclei of mass number in the range 30 to 170.\nReason R: Nuclear force is short ranged.\nIn the light of the above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true but R is NOT the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "A is true but R is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "A is false but R is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both A and R are true and R is the correct explanation of A",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 4,
+      "negativeMarks": 1,
+      "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mwvzulof_z4n8l",
+      "subject": "Physics",
+      "categoryId": "cat_mwvzuajp_wj8mv",
+      "type": "single",
+      "text": "Statement I: Out of microwaves, infrared rays and ultraviolet rays, ultraviolet rays are the most effective for the emission of electrons from a metallic surface.\nStatement II: Above the threshold frequency, the maximum kinetic energy of photoelectrons is inversely proportional to the frequency of the incident light.\nIn the light of above statements, choose the correct answer from the options given below",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Statement I is true but Statement II is false",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Statement I and Statement II are true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Statement I is false but Statement II is true",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Statement I and Statement II are false",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 4,
+      "negativeMarks": 1,
       "solution": "",
       "saved": false,
       "done": false
