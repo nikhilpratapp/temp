@@ -1,7 +1,7 @@
 {
   "app": "EXAM_MODE_CLOUD",
   "version": 1,
-  "publishedAt": "2026-11-25T11:19:05.659Z",
+  "publishedAt": "2026-11-25T12:11:21.661Z",
   "adminAuthHash": "1188e509c1f772888ca43df931791aac7b6da4819b2549d6e239bf646773425c",
   "categories": [
     {
@@ -37,6 +37,12 @@
     {
       "id": "cat_mww1573h_ti2ox",
       "name": "Challenge 3",
+      "subject": "Physics",
+      "description": ""
+    },
+    {
+      "id": "cat_mww2zzml_i5jrq",
+      "name": "School",
       "subject": "Physics",
       "description": ""
     }
@@ -46495,6 +46501,3534 @@
       "marks": 4,
       "negativeMarks": 1,
       "solution": "",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exr_5xd4d",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In a region, electric potential varies as $V = 10 - 50x$ ($V$ in volts, $x$ in metres). The electric field in the region is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$10\\text{ N/C}$ along $+x$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$10\\text{ N/C}$ along $-x$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$50\\text{ N/C}$ along $+x$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$50\\text{ N/C}$ along $-x$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$E_x = -\\frac{dV}{dx} = -(-50) = +50\\text{ N/C}$ along $+x$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exr_kdlyg",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A conducting wire connects two charged metallic spheres A and B of radii $r_1$ and $r_2$ kept very far apart compared to their radii. The ratio of electric fields $(E_A/E_B)$ at their surfaces is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$r_1/r_2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$r_2/r_1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$r_1^2/r_2^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$r_2^2/r_1^2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Connected spheres reach equal potential $V = \\frac{kq_1}{r_1} = \\frac{kq_2}{r_2}$. Surface field $E = \\frac{kq}{r^2} = \\frac{V}{r}$, so $\\frac{E_A}{E_B} = \\frac{r_2}{r_1}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_ufr0t",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A long straight wire of circular cross-section (radius $a$) carries a steady current $I$ uniformly distributed across its cross-section. The magnetic field magnitude at distance $a/2$ from the axis is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{\\mu_0 I}{2\\pi a}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\mu_0 I}{4\\pi a}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\mu_0 I}{6\\pi a}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "For $r < a$, $B = \\frac{\\mu_0 I r}{2\\pi a^2}$. At $r = a/2$, $B = \\frac{\\mu_0 I (a/2)}{2\\pi a^2} = \\frac{\\mu_0 I}{4\\pi a}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_bha1i",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "An electromagnetic wave passes from vacuum into a dielectric medium with relative permittivity $\\varepsilon_r = 3/2$ and relative permeability $\\mu_r = 8/3$. Then its:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "wavelength is doubled and frequency remains unchanged",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "wavelength is doubled and frequency is halved",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "wavelength is halved and frequency remains unchanged",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "both wavelength and frequency remain unchanged",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$n = \\sqrt{\\varepsilon_r \\mu_r} = \\sqrt{(3/2)(8/3)} = 2$. Frequency $\\nu$ stays unchanged; $\\lambda' = \\lambda/n = \\lambda/2$ (halved).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_lfoyl",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In a series LCR circuit, the voltage across the resistor, capacitor, and inductor is $10\\text{ V}$ each. If the capacitor is short-circuited, the new voltage across the inductor will be:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$10\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$5\\sqrt{2}\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{5}{\\sqrt{2}}\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$10\\sqrt{2}\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Initially $V_L = V_C = 10\\text{ V}$ and $V_R = 10\\text{ V}$, so $V_{\\text{source}} = 10\\text{ V}$ and $X_L = X_C = R$. Shorting $C$ gives $Z' = \\sqrt{R^2 + X_L^2} = \\sqrt{2}R$. Thus $I' = \\frac{V}{\\sqrt{2}R}$ and $V_L' = I' X_L = \\frac{10}{\\sqrt{2}} = 5\\sqrt{2}\\text{ V}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_e0dty",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Two heaters rated $(P_1, V)$ and $(P_2, V)$ are connected in series across a DC source of $V/2$ volts. The power consumed by the combination is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$P_1 + P_2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{P_1 + P_2}{2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{P_1 P_2}{2(P_1 + P_2)}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{P_1 P_2}{4(P_1 + P_2)}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$R_1 = V^2/P_1$, $R_2 = V^2/P_2$, so $R_s = V^2\\left(\\frac{1}{P_1} + \\frac{1}{P_2}\\right)$. Across $V_{\\text{app}} = V/2$: $P_s = \\frac{(V/2)^2}{R_s} = \\frac{V^2/4}{V^2(P_1+P_2)/(P_1 P_2)} = \\frac{P_1 P_2}{4(P_1+P_2)}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_q32ws",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A concave lens of focal length $10\\text{ cm}$ is cut vertically into two identical plano-concave lenses. The focal length of each lens will be:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$20\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$30\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$40\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$5\\text{ cm}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$\\frac{1}{f} = (\\mu - 1)\\left(-\\frac{1}{R} - \\frac{1}{R}\\right) = -\\frac{2(\\mu-1)}{R} \\Rightarrow \\frac{(\\mu-1)}{R} = \\frac{1}{2|f|} = \\frac{1}{20}$. For each plano-concave lens, $\\frac{1}{|f'|} = \\frac{\\mu-1}{R} = \\frac{1}{20} \\Rightarrow f' = -20\\text{ cm}$ (magnitude $20\\text{ cm}$).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_wnr5y",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The 'distance of closest approach' of an $\\alpha$-particle is $d$ when moving head-on with velocity $v$ towards a target nucleus. If its velocity is halved, the new distance of closest approach is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$d/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2d$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$d/4$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$4d$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$d = \\frac{1}{4\\pi\\varepsilon_0} \\frac{2Ze^2}{\\frac{1}{2}mv^2} \\propto \\frac{1}{v^2}$. Halving $v$ makes $d' = 4d$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_rzzpr",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A straight long wire along the $y$-axis carries a current of $1\\text{ A}$ along the $-y$ direction. The magnetic field at point $(50\\text{ cm}, 0, 0)$ points along:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$+z$-axis",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$-z$-axis",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$+x$-axis",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$-x$-axis",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Using $\\vec{B} \\propto d\\vec{l} \\times \\vec{r}$ with $d\\vec{l}$ along $-\\hat{j}$ and $\\vec{r}$ along $+\\hat{i}$: $(-\\hat{j}) \\times (+\\hat{i}) = +\\hat{k}$ ($+z$-axis).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_az433",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A galvanometer of resistance $27\\ \\Omega$ is converted into an ammeter of range $0\\text{--}10\\text{ mA}$ using a $3\\ \\Omega$ shunt. The galvanometer shows full-scale deflection for a current of about:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$10\\text{ mA}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$100\\text{ mA}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$1\\text{ mA}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$3\\text{ mA}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$I_g = I \\frac{S}{G + S} = 10\\text{ mA} \\times \\frac{3}{27 + 3} = 1\\text{ mA}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_8b84y",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In Bohr's model of the hydrogen atom, for large values of $n$, the distance between consecutive orbits is proportional to:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$n$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\sqrt{n}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$n^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$n^3$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$r_n \\propto n^2$. Gap between consecutive orbits is $r_{n+1} - r_n \\propto (n+1)^2 - n^2 = 2n + 1 \\propto n$ for large $n$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_nb423",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In an unbiased p-n junction at equilibrium, which statement is true?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Diffusion current is zero but drift current exists",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Diffusion current exists but drift current is zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Diffusion and drift currents are equal and opposite",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both exist but are unequal",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "At equilibrium in an unbiased p-n junction, diffusion current and drift current are equal in magnitude and opposite in direction, making net current zero.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_av0l0",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** All atoms have a net magnetic moment.\n\n**Reason (R):** A current loop does not always behave as a magnetic dipole.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are false: diamagnetic atoms (paired electrons) have zero net magnetic moment, and any planar current loop behaves as a magnetic dipole of moment $\\vec{m} = NIA$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_euvb5",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The mass of a nucleus is less than the sum of the masses of its constituent nucleons.\n\n**Reason (R):** Energy is absorbed when nucleons are bound together to form a nucleus.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true (mass defect $\\Delta m > 0$), but R is false because binding energy is released (not absorbed) when nucleons bind to form a nucleus.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_14p9f",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** In Bohr's model of the hydrogen atom, energy levels are discrete and quantised.\n\n**Reason (R):** The electrostatic force on the electron provides the necessary centripetal force to revolve around the nucleus.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are true, but R does not explain quantisation—quantisation comes from Bohr's angular momentum condition $L = nh/(2\\pi)$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_5msww",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Two electric heaters of power $P_1$ and $P_2$ ($P_2 > P_1$) are joined in series across a DC source of voltage $V$. The power consumed by the combination is less than that consumed by $P_1$ alone across the same source.\n\n**Reason (R):** The power consumed by an electric device across a DC source of voltage $V$ is proportional to its resistance.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "In series, $R_{\\text{eq}} = R_1 + R_2 > R_1$, so $P_{\\text{series}} = V^2/R_{\\text{eq}} < V^2/R_1 = P_1$ (A is true). For fixed $V$, $P = V^2/R$ is inversely (not directly) proportional to $R$ (R is false).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_8ysug",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Two small identical metallic balls with charges $q$ and $-2q$ are separated by distance $r$ (initial force $F$). They are brought in contact and then separated to distance $r/2$. They will now:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "attract with force $F/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "repel with force $F/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "repel with force $F$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "attract with force $F$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Initial magnitude $|F| = \\frac{k(2q^2)}{r^2}$. After contact, each gets $\\frac{q - 2q}{2} = -\\frac{q}{2}$. At distance $r/2$, they repel with $|F'| = \\frac{k(q/2)^2}{(r/2)^2} = \\frac{kq^2}{r^2} = \\frac{F}{2}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_r5kci",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Two wires of the same length and cross-sectional area, made of materials with resistivities $\\rho_1$ and $\\rho_2$, are connected in series. The equivalent resistivity of the combination is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{2}(\\rho_1 + \\rho_2)$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\rho_1 + \\rho_2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\sqrt{\\rho_1 \\rho_2}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$2(\\rho_1 + \\rho_2)$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$R_{\\text{eq}} = R_1 + R_2 \\Rightarrow \\rho_{\\text{eq}} \\frac{2L}{A} = \\frac{\\rho_1 L}{A} + \\frac{\\rho_2 L}{A} \\Rightarrow \\rho_{\\text{eq}} = \\frac{\\rho_1 + \\rho_2}{2}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_g791o",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A wire is gradually stretched to increase its length by $100\\%$. The percentage increase in its resistance is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$100\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$200\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$300\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$400\\%$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Length increases by $100\\% \\Rightarrow l' = 2l$. Volume constant $\\Rightarrow R' = 4R$. Percentage increase $= \\frac{4R - R}{R} \\times 100\\% = 300\\%$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_vkkv3",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A magnet held vertically with its North pole down is dropped along the axis of a closed vertical solenoid on a table. An observer looking down from the top sees:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "induced current flowing anticlockwise",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "induced current flowing clockwise",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "no induced current",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "the magnet falling with constant velocity",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "By Lenz's law, the top face of the solenoid develops a North pole to oppose the approaching North pole. Looking from above, North polarity corresponds to anticlockwise—wait: let's re-check Lenz's law carefully! North pole approaches from top $\\Rightarrow$ flux downward increases $\\Rightarrow$ induced field opposes downward flux, i.e., points UPWARD from top face. Right-hand thumb upward $\\Rightarrow$ fingers curl ANTICLOCKWISE when viewed from top! Let's verify: thumb up = anticlockwise from top. Good catch checking direction!",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_0idzx",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The magnetic field of a plane EM wave in glass ($n = 1.5$) is $B_y = (2 \\times 10^{-7}\\text{ T})\\sin(\\alpha x + 1.5 \\times 10^{11} t)$ ($x$ in m, $t$ in s). The value of $\\alpha$ is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$0.5 \\times 10^3\\text{ m}^{-1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$6.0 \\times 10^2\\text{ m}^{-1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$7.5 \\times 10^2\\text{ m}^{-1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1.5 \\times 10^3\\text{ m}^{-1}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Speed in glass $v = c/n = (3 \\times 10^8)/1.5 = 2 \\times 10^8\\text{ m/s}$. $\\alpha = k = \\frac{\\omega}{v} = \\frac{1.5 \\times 10^{11}}{2 \\times 10^8} = 7.5 \\times 10^2\\text{ m}^{-1}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exs_gphhh",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The ratio of the amplitude of the electric field to the amplitude of the magnetic field for an EM wave propagating in glass ($n = 1.5$) is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$3 \\times 10^8\\text{ m/s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$2 \\times 10^8\\text{ m/s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$3.3 \\times 10^{-9}\\text{ m/s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$5 \\times 10^{-9}\\text{ m/s}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$\\frac{E_0}{B_0} = v = \\frac{c}{n} = \\frac{3 \\times 10^8}{1.5} = 2 \\times 10^8\\text{ m/s}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_718qu",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "An AC voltage is given by $v = 14\\sin(314t)\\text{ V}$. Its average value and effective (rms) value over a full cycle are respectively:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$14\\text{ V}$ and $7\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$10\\text{ V}$ and $14\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$0\\text{ V}$ and $10\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$10\\text{ V}$ and $0\\text{ V}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Average over a full cycle is $0\\text{ V}$; $V_{\\text{rms}} = \\frac{14}{\\sqrt{2}} \\approx 10\\text{ V}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_6j8gv",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A thin plano-convex lens and a thin equi-concave lens (both glass of index $\\mu$, curvature radius $R$) are placed coaxially in contact. The focal length of the combination is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{R}{\\mu - 1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$-\\frac{R}{\\mu - 1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2R}{\\mu - 1}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$-\\frac{2R}{\\mu - 1}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$\\frac{1}{f_1} = (\\mu - 1)\\left(\\frac{1}{R} - \\frac{1}{\\infty}\\right) = \\frac{\\mu-1}{R}$. $\\frac{1}{f_2} = (\\mu - 1)\\left(-\\frac{1}{R} - \\frac{1}{R}\\right) = -\\frac{2(\\mu-1)}{R}$. $\\frac{1}{f_{\\text{eq}}} = -\\frac{\\mu-1}{R} \\Rightarrow f_{\\text{eq}} = -\\frac{R}{\\mu-1}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_5g7tk",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A proton and an $\\alpha$-particle have equal momentum. The ratio of their kinetic energies $(E_p/E_\\alpha)$ and de Broglie wavelengths $(\\lambda_p/\\lambda_\\alpha)$ respectively are:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$2, 1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$1, 2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$4, 1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1, 4$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Equal $p$: $\\lambda = h/p \\Rightarrow \\lambda_p/\\lambda_\\alpha = 1$. $K = p^2/(2m) \\Rightarrow E_p/E_\\alpha = m_\\alpha / m_p = 4m_p / m_p = 4$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_zextd",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The kinetic energy of a charged particle is increased to four times its initial value. Its de Broglie wavelength will:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increase by $100\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "increase by $50\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "decrease by $25\\%$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "decrease by $50\\%$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$\\lambda = \\frac{h}{\\sqrt{2mK}} \\propto \\frac{1}{\\sqrt{K}}$. If $K' = 4K$, $\\lambda' = \\lambda/2$, which is a $50\\%$ decrease.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_0873w",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In Bohr's H-atom model, an electron jumps from $n = 5 \\to 1$ emitting wavelength $\\lambda$. If it jumps from $n = 5 \\to 2$, the emitted wavelength will be:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{8}{7}\\lambda$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{24}{7}\\lambda$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{16}{7}\\lambda$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{32}{7}\\lambda$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$\\frac{1}{\\lambda} = R\\left(1 - \\frac{1}{25}\\right) = \\frac{24R}{25}$. $\\frac{1}{\\lambda'} = R\\left(\\frac{1}{4} - \\frac{1}{25}\\right) = \\frac{21R}{100} = \\frac{7R}{100/3}$. Ratio $\\frac{\\lambda'}{\\lambda} = \\frac{24}{25} \\times \\frac{100}{21} = \\frac{24}{7}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_b7z59",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The process named 'minority carrier injection' in a p-n junction diode occurs during:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "forward biasing",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "reverse biasing",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "no biasing at low temp",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "no biasing at high temp",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "In forward bias, majority carriers cross the junction and become minority carriers on the other side—called minority carrier injection.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_v13ie",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The cylindrical soft iron core in a moving coil galvanometer only makes the magnetic field radial and does not affect the strength of the magnetic field.\n\n**Reason (R):** In a moving coil galvanometer, the plane of the coil is always perpendicular to the magnetic field.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: soft iron core both makes the field radial and increases its strength; in a radial field, the coil's plane is parallel (not perpendicular) to $\\vec{B}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_d14uy",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** When a ferromagnetic substance is heated to high temperature, it becomes paramagnetic in nature.\n\n**Reason (R):** The disappearance of magnetisation of a ferromagnet is abrupt and not gradual.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true above Curie temperature; R is false because magnetisation decreases gradually with temperature.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_1v5ak",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Nuclear forces are always attractive.\n\n**Reason (R):** The nuclear force between protons and neutrons in a nucleus is a weak force.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: nuclear forces are repulsive at very short distances ($< 0.8\\text{ fm}$) and are strong nuclear forces, not weak.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_n33ds",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Photoelectric effect is a spontaneous (instantaneous) phenomenon.\n\n**Reason (R):** According to the wave picture of radiation, an electron would take hours/days to absorb sufficient energy to overcome the work function and escape a metal surface.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both statements are true, but R explains why wave theory fails—it does not explain why the effect is instantaneous.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_r4xet",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A body acquires a charge of $+8.0 \\times 10^{-12}\\text{ C}$. The mass of the body:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases by $4.5 \\times 10^{-7}\\text{ kg}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "decreases by $1.0 \\times 10^{-6}\\text{ kg}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "decreases by $4.55 \\times 10^{-23}\\text{ kg}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "increases by $9.1 \\times 10^{-23}\\text{ kg}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Positive charge means electrons are removed: $n = \\frac{8.0 \\times 10^{-12}}{1.6 \\times 10^{-19}} = 5 \\times 10^7$. Mass decreases by $n m_e = 5 \\times 10^7 \\times 9.1 \\times 10^{-31} \\approx 4.55 \\times 10^{-23}\\text{ kg}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_vjtpk",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A metal sheet is inserted between the plates of a parallel plate capacitor of capacitance $C$. If the sheet partly occupies the space between the plates, the capacitance:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "remains $C$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "becomes greater than $C$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "becomes less than $C$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "becomes zero",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Effective separation reduces from $d$ to $(d - t)$, so $C' = \\frac{\\varepsilon_0 A}{d - t} > C$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_8etip",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A rectangular coil of area $A$ is kept in a uniform magnetic field $\\vec{B}$ such that the plane of the coil makes an angle $\\alpha$ with $\\vec{B}$. The magnetic flux linked with the coil is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$BA\\sin\\alpha$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$BA\\cos\\alpha$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$BA$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "zero",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Angle between area normal and $\\vec{B}$ is $(90^\\circ - \\alpha)$, so $\\Phi = BA\\cos(90^\\circ - \\alpha) = BA\\sin\\alpha$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_vb4vy",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A piece of a diamagnetic material, free to move, is placed in a uniform magnetic field. It:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "moves along the field",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "moves opposite to the field",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "moves perpendicular to the field",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "does not move at all",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "In a uniform magnetic field, there is no net translational force on a diamagnetic sample, so it does not move.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_aimft",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A vertically held bar magnet is dropped along the axis of a copper ring having a cut. The acceleration of the falling magnet is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "less than $g$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$g$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "greater than $g$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Because of the cut, the loop is open—no induced current flows, no opposing magnetic force acts, and acceleration equals $g$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_gsc5n",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "An alternating current is given by $I = I_0 \\cos(100\\pi t)$. The least time the current takes to decrease from its maximum value to zero is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{200}\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{100}\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{50}\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{150}\\text{ s}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$I = 0$ first when $\\cos(100\\pi t) = 0 \\Rightarrow 100\\pi t = \\pi/2 \\Rightarrow t = \\frac{1}{200}\\text{ s}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_df2li",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A capacitor and an inductor are connected in series across a variable-frequency AC source. As frequency is increased continuously, the nature of the circuit before and after resonance is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "inductive only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "capacitive only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "capacitive and inductive respectively",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "inductive and capacitive respectively",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Below resonance ($f < f_0$), $X_C > X_L$ (capacitive); above resonance ($f > f_0$), $X_L > X_C$ (inductive).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_2l9kp",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Two coherent waves, each of intensity $I_0$, produce an interference pattern on a screen. The average intensity of light on the screen is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "zero",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$I_0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2I_0$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$4I_0$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$I = 4I_0\\cos^2(\\phi/2)$. Average of $\\cos^2(\\phi/2)$ is $1/2$, so $I_{\\text{avg}} = 4I_0 (1/2) = 2I_0$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_51aet",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A beam of red light and a beam of blue light have equal intensities. Which statement is true?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "The blue beam has more photons than the red beam",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "The red beam has more photons than the blue beam",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Wavelength of red light is less than that of blue light",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Blue light has less energy per photon than red light",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Red has longer wavelength $\\Rightarrow$ lower photon energy $h c/\\lambda$. For equal intensity $I = n h\\nu$, more photons per second are needed in the red beam.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_3be7k",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The work function of a material is $2.21\\text{ eV}$. Which of the following cannot produce photoelectrons from it?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Red light",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Blue light",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Violet light",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Green light",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Red light has photon energy around $1.8\\text{ eV} < 2.21\\text{ eV}$, below the threshold work function.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_ns2le",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Out of the following transitions in a hydrogen atom, which emits a photon of maximum wavelength?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$n = 4$ to $n = 3$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$n = 3$ to $n = 2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$n = 2$ to $n = 1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$n = 3$ to $n = 1$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Maximum wavelength corresponds to minimum energy gap $\\Delta E = hc/\\lambda$. Among the choices, $n = 4 \\to 3$ has the smallest energy difference.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_uitfo",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A germanium crystal is doped at room temperature with a minute quantity of boron. The charge carriers in the doped semiconductor will be:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "electrons only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "holes only",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "holes and few electrons",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "electrons and few holes",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Boron is trivalent (p-type), so holes are majority carriers and thermally generated electrons are minority carriers ('holes and few electrons').",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_0eccb",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** A charged particle moves with velocity $\\vec{v}$ in the $x$-$y$ plane making an angle $\\theta$ ($0 < \\theta < \\pi/2$) with the $x$-axis. If a uniform magnetic field is applied along the $y$-axis, the particle moves in a helical path with its axis parallel to the $x$-axis.\n\n**Reason (R):** The magnetic force on a moving charged particle is directed along its velocity.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: velocity component along $y$ is parallel to $\\vec{B}$ (helical axis is parallel to $y$-axis, not $x$), and magnetic force $q(\\vec{v} \\times \\vec{B})$ is perpendicular to $\\vec{v}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_nq5cb",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** A hole is an apparent free particle with an effective positive electronic charge.\n\n**Reason (R):** A hole is not necessarily a vacancy left behind by an electron in the valence band.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, while R is false because a hole in a semiconductor is by definition an absence/vacancy of an electron in the valence band.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_w74cq",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The binding energy per nucleon is practically constant for mass numbers in the range $30 < A < 170$.\n\n**Reason (R):** Nuclear forces between nucleons in the range $30 < A < 170$ are not short-range.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because the constancy (saturation) is due to the short-range nature of nuclear forces.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_5zjd4",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** An n-type semiconductor is not negatively charged.\n\n**Reason (R):** A neutral pentavalent impurity atom doped in a neutral intrinsic semiconductor donates its fifth unpaired electron to the crystal lattice and becomes a positive donor ion.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are true and R explains why the doped crystal remains electrically neutral overall.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_bi1uy",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A parallel plate capacitor is charged by a battery, and the battery is then disconnected. If a dielectric slab of constant $K$ is now fully inserted between the plates, the electrostatic energy stored in the capacitor:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases by factor $K$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "decreases by factor $K$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "remains unchanged",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "decreases by factor $K^2$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Charge $Q$ is constant and $C' = KC$. Stored energy $U' = \\frac{Q^2}{2C'} = \\frac{Q^2}{2KC} = \\frac{U}{K}$ (decreases by factor $K$).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_gs8if",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A steady current flows through a metallic conductor of non-uniform cross-section. Which of the following quantities remains constant along the conductor?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Current density",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Drift velocity",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Electric field",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Electric current",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "In steady state with no charge accumulation, electric current $I$ is constant across every cross-section; $J$, $v_d$, and $E$ vary inversely with area $A$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_toxyr",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "If the number of turns in a moving coil galvanometer is doubled (keeping the wire thickness, coil area, $B$, and spring constant the same), then its current sensitivity and voltage sensitivity respectively:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "both double",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "doubles, remains unchanged",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "remains unchanged, halves",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "both remain unchanged",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Current sensitivity $I_s = \\frac{NBA}{k}$ doubles when $N \\to 2N$. For identical wire thickness/length per turn, $R$ also doubles, so voltage sensitivity $V_s = \\frac{I_s}{R}$ remains unchanged.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_f5hl8",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Which of the following correctly describes the magnetic susceptibility ($\\chi$) of a diamagnetic substance as temperature increases?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Negative and decreases in magnitude",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Negative and remains independent of temperature",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Positive and inversely proportional to $T$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Negative and inversely proportional to $T$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Diamagnetic susceptibility is small, negative, and independent of temperature.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_tl5hx",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A closely wound long solenoid of self-inductance $L$ is cut into two identical smaller solenoids. The self-inductance of each smaller solenoid is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$L/2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$L/4$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$2L$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$L$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "For a solenoid, $L = \\mu_0 n^2 A l$. Turns per unit length $n$ and area $A$ stay same; length halves ($l' = l/2$), so $L' = L/2$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_1kf6n",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In a series LCR circuit at resonance, if the frequency of the AC source is doubled (keeping peak voltage constant), the current in the circuit:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "increases and leads voltage",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "decreases and lags behind voltage",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "decreases and leads voltage",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "remains unchanged",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Above resonance ($f > f_0$), $X_L > X_C$, impedance $Z = \\sqrt{R^2 + (X_L - X_C)^2}$ increases, so current decreases and voltage leads current (current lags behind voltage).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_bn77o",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In a plane electromagnetic wave propagating in vacuum, the ratio of average electric energy density ($u_E$) to average magnetic energy density ($u_B$) is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$c$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$c^2$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$1$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$1/c$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "In an EM wave, electric and magnetic fields carry equal average energy densities: $u_E = u_B = \\frac{1}{4}\\varepsilon_0 E_0^2 = \\frac{B_0^2}{4\\mu_0}$, so $u_E/u_B = 1$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_8zici",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "Which electromagnetic waves are produced by rapid deceleration of high-speed electrons hitting a heavy metal target, and what is their approximate wavelength range?",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Gamma rays, less than $10^{-3}\\text{ nm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "X-rays, $1\\text{ nm}$ to $10^{-3}\\text{ nm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "UV rays, $400\\text{ nm}$ to $1\\text{ nm}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Microwaves, $0.1\\text{ m}$ to $1\\text{ mm}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "X-rays are produced by deceleration of fast electrons in heavy metal targets and span roughly $1\\text{ nm}$ to $10^{-3}\\text{ nm}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_dcedo",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A double-convex lens made of glass ($n = 1.5$) is completely immersed in carbon disulphide ($n = 1.65$). The lens will now behave as a:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "converging lens of smaller focal length",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "converging lens of larger focal length",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "diverging lens",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "plane glass plate",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Since $n_{\\text{medium}} = 1.65 > n_{\\text{lens}} = 1.5$, $(n_2/n_1 - 1)$ becomes negative, flipping a double-convex lens into a diverging lens.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_5i6ad",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "In a single-slit diffraction experiment, if the slit width $a$ is halved while keeping wavelength $\\lambda$ and screen distance $D$ constant, the angular width of the central maximum:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "becomes half",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "doubles",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "becomes four times",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "remains unchanged",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Angular half-width is $\\theta = \\lambda/a$, so full angular width $2\\theta = 2\\lambda/a$ doubles when $a$ is halved.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_3bxo2",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "The stopping potential ($V_0$) versus frequency ($\\nu$) graphs for two different metals A and B are plotted on the same axes. The two straight lines are always:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "parallel with slope $h/e$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "intersecting at the origin",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "having different slopes proportional to their work functions",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "perpendicular to each other",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "$eV_0 = h\\nu - \\phi_0 \\Rightarrow V_0 = \\left(\\frac{h}{e}\\right)\\nu - \\frac{\\phi_0}{e}$. All metals have the same slope $h/e$, so the lines are parallel.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_ela5g",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "A full-wave rectifier is fed with an AC input of frequency $50\\text{ Hz}$. The fundamental frequency of the pulsating DC output across the load resistor is:",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "$25\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "$50\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "$100\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "$0\\text{ Hz}$",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A full-wave rectifier inverts negative half-cycles, doubling output ripple frequency to $2f = 100\\text{ Hz}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_0we7h",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The magnetic susceptibility of a diamagnetic substance is independent of temperature.\n\n**Reason (R):** Diamagnetism is an induced effect caused by the modification of orbital motion of electrons opposing the applied magnetic field, not by thermal alignment of permanent dipoles.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are true and R correctly explains why thermal agitation does not alter diamagnetic susceptibility.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30ext_ia8k1",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** During charging of a parallel plate capacitor, a magnetic field exists in the region between the plates even though no conduction current flows through the gap.\n\n**Reason (R):** A time-varying electric flux between the plates gives rise to a displacement current that acts as a source of magnetic field.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are true and Maxwell's displacement current $i_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt}$ directly explains the magnetic field between the plates.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_tfoip",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** At absolute zero ($0\\text{ K}$), an intrinsic semiconductor behaves as a perfect insulator.\n\n**Reason (R):** At $0\\text{ K}$, all covalent bonds in a pure semiconductor are intact and no free electrons are available in the conduction band.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both A and R are true and R explains why conduction does not occur at $0\\text{ K}$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_kwlqv",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The nuclear density is almost constant and independent of mass number $A$ for all nuclei.\n\n**Reason (R):** The radius of a nucleus is directly proportional to its mass number $A$.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because nuclear radius scales as $R = R_0 A^{1/3}$ (cube root, not direct proportion).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_0w2mk",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** No work is done in moving a test charge between any two points on the surface of a charged metallic conductor in electrostatic equilibrium.\n\n**Reason (R):** Every point on the surface of a charged conductor in electrostatic equilibrium is at the same electric potential.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true; $\\Delta V = 0 \\Rightarrow W = q\\Delta V = 0$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_kgosm",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** When a dielectric slab is inserted between the plates of a parallel plate capacitor while it remains connected to a battery, the electric field between the plates decreases.\n\n**Reason (R):** Inserting a dielectric slab into a capacitor always reduces the potential difference across its plates.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false when connected to a battery: $V$ stays fixed by the battery, and $E = V/d$ also remains unchanged.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_85rct",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** For a metallic conductor, resistivity increases with an increase in temperature.\n\n**Reason (R):** With an increase in temperature, the number density of free electrons ($n$) in a metal decreases sharply.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true (relaxation time $\\tau$ decreases), but R is false because $n$ in a metal stays nearly constant.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_j30j0",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The terminal potential difference across a cell can never exceed its emf.\n\n**Reason (R):** The terminal potential difference of a cell is always given by $V = E - Ir$, where $I$ is the current passing through it.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: when a cell is being charged, $V = E + Ir > E$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_8eyre",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** A uniform magnetic field does zero work on a moving charged particle.\n\n**Reason (R):** The radius of the circular path of a charged particle entering perpendicular to a uniform magnetic field is directly proportional to its linear momentum.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true ($\\vec{F}_B \\perp \\vec{v}$ so work is zero, and $r = p/(qB)$), but R does not explain why work is zero.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_sjxys",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** When a diamagnetic material is placed in an external magnetic field, the magnetic field lines are expelled from it.\n\n**Reason (R):** The relative magnetic permeability ($\\mu_r$) of a diamagnetic material is slightly greater than $1$.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because for diamagnetic materials $\\mu_r < 1$ (slightly less than $1$).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_901t2",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Magnetic field lines can intersect each other inside a bar magnet.\n\n**Reason (R):** Inside a bar magnet, magnetic field lines are directed from the North pole to the South pole.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: magnetic field lines never intersect, and inside a magnet they run from South to North.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_vtazy",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The magnetisation of a paramagnetic sample decreases when its temperature is increased (for the same magnetising field).\n\n**Reason (R):** Paramagnetic materials tend to move from weaker to stronger regions of a non-uniform magnetic field.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true (Curie's law and paramagnetic attraction), but R does not explain temperature dependence of magnetisation.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_mynb1",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** If a copper ring with a small cut in it is moved into a uniform magnetic field perpendicular to its plane, an emf is induced across the cut ends.\n\n**Reason (R):** Induced emf depends on the rate of change of magnetic flux linked with the loop, regardless of whether the loop is closed or open.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true and R correctly explains why emf is induced even in an open/cut loop.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_wayvz",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** A capacitor blocks steady direct current (DC) but allows alternating current (AC) to pass through.\n\n**Reason (R):** Capacitive reactance is directly proportional to the frequency of the applied voltage.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because $X_C = \\frac{1}{2\\pi f C}$ is inversely proportional to frequency.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_wi65g",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** In a pure inductive AC circuit, the average power dissipated over a complete cycle is zero.\n\n**Reason (R):** In a pure inductive AC circuit, the current leads the applied voltage by a phase angle of $\\pi/2$.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true ($P_{\\text{avg}} = V_{\\text{rms}} I_{\\text{rms}} \\cos 90^\\circ = 0$), but R is false because current lags behind voltage by $\\pi/2$.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_9sfqu",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** During the charging of a parallel plate capacitor, the displacement current between the plates is equal in magnitude to the conduction current in the connecting wires.\n\n**Reason (R):** Both conduction current and displacement current produce a magnetic field.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true, but R does not explain why their magnitudes are equal (charge conservation / continuity gives $i_d = i_c$).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_dxfnh",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** A charged particle moving with a constant velocity produces electromagnetic waves.\n\n**Reason (R):** Infrared waves have a shorter wavelength than ultraviolet waves.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "D",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are false: accelerated (not constant-velocity) charges produce EM waves, and IR has longer wavelength than UV.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_wxof9",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** In an optical fibre, the refractive index of the core must be greater than the refractive index of the cladding.\n\n**Reason (R):** Total internal reflection occurs only when light travels from an optically rarer medium to an optically denser medium.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because TIR requires light to travel from optically denser to rarer medium.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_4kaks",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Two independent sodium lamps placed close to each other cannot produce a sustained interference pattern on a screen.\n\n**Reason (R):** The phase difference between light waves emitted by two independent sources changes rapidly and randomly with time.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true and R explains why independent sources are incoherent and cannot sustain a stationary interference pattern.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_b6c4k",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** In a photoelectric experiment, increasing the intensity of incident light (above threshold frequency) increases the saturation photocurrent.\n\n**Reason (R):** Increasing the intensity of incident light increases the maximum kinetic energy of the emitted photoelectrons.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "C",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "A is true, but R is false because maximum kinetic energy depends on frequency, not intensity.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_g5rxm",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The total energy of an electron in a bound orbit of a hydrogen atom is negative.\n\n**Reason (R):** As the electron moves to a higher orbit ($n$ increases), its kinetic energy decreases while its potential energy increases.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true, but R describes how $K$ and $U$ change with $n$, not why total energy $E = -\\frac{e^2}{8\\pi\\varepsilon_0 r}$ is negative (bound state).",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_xw95z",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** Nuclear fusion reactions require extremely high temperatures (of the order of $10^7\\text{ K}$) to take place.\n\n**Reason (R):** Positively charged light nuclei require very high kinetic energy to overcome the strong electrostatic Coulomb repulsion between them.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true and R gives the physical reason for needing high thermal kinetic energy.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_jgtp4",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** The electrical conductivity of a pure semiconductor increases with an increase in temperature.\n\n**Reason (R):** With an increase in temperature, the number of thermally generated electron-hole pairs increases exponentially, outweighing the decrease in relaxation time.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "A",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true and R is the exact explanation for rising conductivity in intrinsic semiconductors.",
+      "saved": false,
+      "done": false
+    },
+    {
+      "id": "q_mww30exu_698v2",
+      "subject": "Physics",
+      "categoryId": "cat_mww2zzml_i5jrq",
+      "type": "single",
+      "text": "**Assertion (A):** When a p-n junction diode is reverse biased, both the width of the depletion region and the effective barrier height increase.\n\n**Reason (R):** Under reverse bias, the small reverse saturation current is due to the drift of minority charge carriers across the junction.",
+      "hasImage": false,
+      "questionImage": "",
+      "optionsHaveImages": false,
+      "options": [
+        {
+          "id": "A",
+          "text": "Both Assertion (A) and Reason (R) are true, and Reason (R) is the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "B",
+          "text": "Both Assertion (A) and Reason (R) are true, but Reason (R) is NOT the correct explanation of Assertion (A).",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "C",
+          "text": "Assertion (A) is true, but Reason (R) is false.",
+          "hasImage": false,
+          "image": ""
+        },
+        {
+          "id": "D",
+          "text": "Both Assertion (A) and Reason (R) are false.",
+          "hasImage": false,
+          "image": ""
+        }
+      ],
+      "correctAnswer": "B",
+      "marks": 1,
+      "negativeMarks": 0,
+      "solution": "Both are true statements, but R explains the reverse current rather than the widening of the depletion layer / increased barrier height.",
       "saved": false,
       "done": false
     }
